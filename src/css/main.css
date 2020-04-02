@@ -92,6 +92,7 @@ h1 {
 }
 
 h3 {
+    margin-top: 10px;
     font-size: 1.25rem;;		  /* Same as f4 */
     font-weight: var(--bold-font-weight); /* Same as b */
 }

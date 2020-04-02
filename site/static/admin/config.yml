@@ -48,6 +48,11 @@ collections: # A list of collections the CMS should be able to edit
         name: "team"
         fields:
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/resources/_index.md"
+        label: "Resources"
+        name: "resources"
+        fields:
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/contact_index.md"
         label: "Contact Us"
         name: "contact"
