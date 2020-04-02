@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<div class="mw7 center ph3 pt4">
+
+  <h1 class="f2">{{ .Params.title }}</h1>
+
+  <h3 class="b">{{ .Params.haveAccessDescription }}</h3>
+
+  <ul>
+    {{ range .Params.haveAccess }}
+    <li>{{ .name }}</li>
+    {{ end }}
+  </ul>
+
+  <br />
+  
+  <h3 class="b">{{ .Params.regionalAccessDescription }}</h3>
+
+  <ul>
+    {{ range .Params.regionalAccess }}
+    <li>{{ .name }}</li>
+    {{ end }}
+  </ul>
+
+  <br />
+    
+  <h3 class="b">{{ .Params.regionalOptinDescription }}</h3>
+
+  <ul>
+    {{ range .Params.regionalOptin }}
+    <li>{{ .name }}</li>
+    {{ end }}
+  </ul>
+    
+</div>
+
+{{ end }}

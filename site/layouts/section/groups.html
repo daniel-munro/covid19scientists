@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+<div class="mw7 center ph3 pt4">
+
+  <h1 class="f2">{{ .Params.title }}</h1>
+  
+  <p>{{ .Params.description }}<p>
+
+    {{ range .Params.groups }}
+    <div>
+      <h4 class="b">{{ .group }}</h4>
+      <p>
+	Location: {{ .location }} <br />
+	Organizers: {{ .organizers }}
+      </p>
+    </div>
+    {{ end }}
+    
+</div>
+
+{{ end }}
