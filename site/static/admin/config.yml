@@ -21,11 +21,11 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: markdown}
           - label: "FAQ Entries"
-	    name: "entries"
-	    widget: "list"
-	    fields:
-	      - {label: Question, name: question, widget: string}
-	      - {label: Answer, name: answer, widget: markdown}
+            name: "entries"
+            widget: "list"
+            fields:
+              - {label: Question, name: question, widget: string}
+              - {label: Answer, name: answer, widget: markdown}
       - file: "site/content/access/_index.md"
         label: "Access the Database"
         name: "access"
@@ -44,13 +44,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Description, name: description, widget: markdown}
           - label: "Groups"
-	    name: "groups"
-	    widget: "list"
-	    fields:
-	      - {label: Group, name: group, widget: string}
-	      - {label: Location, name: location, widget: string}
-	      - {label: Organizers, name: organizers, widget: markdown}
-	      - {label: Contacts, name: contacts, widget: markdown}
+            name: "groups"
+            widget: "list"
+            fields:
+              - {label: Group, name: group, widget: string}
+              - {label: Location, name: location, widget: string}
+              - {label: Organizers, name: organizers, widget: markdown}
+              - {label: Contacts, name: contacts, widget: markdown}
       - file: "site/content/join/_index.md"
         label: "Join Us"
         name: "join"
@@ -69,31 +69,31 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Access list description, name: haveAccessDescription, widget: string}
-	  - label: "Access list"
-	    name: "haveAccess"
-	    widget: "list"
-	    fields:
-	      - {label: "Name", name: name, widget: string}
+          - label: "Access list"
+            name: "haveAccess"
+            widget: "list"
+            fields:
+              - {label: "Name", name: name, widget: string}
           - {label: Regional access list description, name: regionalAccessDescription, widget: string}
-	  - label: "Regional access list"
-	    name: "regionalAccess"
-	    widget: "list"
-	    fields:
-	      - {label: "Name", name: name, widget: string}
+          - label: "Regional access list"
+            name: "regionalAccess"
+            widget: "list"
+            fields:
+              - {label: "Name", name: name, widget: string}
           - {label: Regional opt-in list description, name: regionalOptinDescription, widget: string}
-	  - label: "Regional opt-in list"
-	    name: "regionalOptin"
-	    widget: "list"
-	    fields:
-	      - {label: "Name", name: name, widget: string}
+          - label: "Regional opt-in list"
+            name: "regionalOptin"
+            widget: "list"
+            fields:
+              - {label: "Name", name: name, widget: string}
       - file: "site/content/team/_index.md"
         label: "Meet the Team"
         name: "team"
         fields:
           - {label: Title, name: title, widget: string}
           - label: "People"
-	    name: "people"
-	    widget: "list"
-	    fields:
-	      - {label: "Name", name: name, widget: string}
-	      - {label: "Affiliation", name: affiliation, widget: string}
+            name: "people"
+            widget: "list"
+            fields:
+              - {label: "Name", name: name, widget: string}
+              - {label: "Affiliation", name: affiliation, widget: string}
