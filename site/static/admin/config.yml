@@ -26,17 +26,24 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Question, name: question, widget: string}
               - {label: Answer, name: answer, widget: markdown}
+      - file: "site/content/join/_index.md"
+        label: "Join Us"
+        name: "join"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+      - file: "site/content/public-db/_index.md"
+        label: "Public Database"
+        name: "public-db"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/access/_index.md"
         label: "Access the Database"
         name: "access"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/contact_index.md"
-        label: "Contact Us"
-        name: "contact"
-        fields:
-          - {label: Title, name: title, widget: string}
       - file: "site/content/groups/_index.md"
         label: "Community Groups"
         name: "groups"
@@ -51,18 +58,6 @@ collections: # A list of collections the CMS should be able to edit
               - {label: Location, name: location, widget: string}
               - {label: Organizers, name: organizers, widget: markdown}
               - {label: Contacts, name: contacts, widget: markdown}
-      - file: "site/content/join/_index.md"
-        label: "Join Us"
-        name: "join"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
-      - file: "site/content/public-db/_index.md"
-        label: "Public Database"
-        name: "public-db"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Body, name: body, widget: markdown}
       - file: "site/content/successes/_index.md"
         label: "Successes"
         name: "successes"
@@ -97,3 +92,8 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: "Name", name: name, widget: string}
               - {label: "Affiliation", name: affiliation, widget: string}
+      - file: "site/content/contact_index.md"
+        label: "Contact Us"
+        name: "contact"
+        fields:
+          - {label: Title, name: title, widget: string}
