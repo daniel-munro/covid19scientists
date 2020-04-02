@@ -9,8 +9,10 @@
   <h1 class="f2">FAQ</h1>
   
   {{ range .Params.entries }}
-  <p class="b">{{ .question }}</p>
-  <p>{{ .answer }}</p>
+  <p>
+    <span class="b">{{ .question }}</span><br />
+    {{ .answer }}
+  </p>
   {{ end }}
   
 </div>

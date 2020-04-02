@@ -5,7 +5,7 @@ people:
       affiliation: Harvard University
     - name: Kevin Schallert
       affiliation: Chambre LP
-    - name: Crystal Lantz
+    - name: Crystal Lantz, PhD
       affiliation: University of Maryland
     - name: Jonathan Stricker
       affiliation: Brigham and Women's Hospital
