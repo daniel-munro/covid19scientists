@@ -32,12 +32,10 @@ title: Successes
 - Henry Ford Hospital (Detroit, MI)
 - Mindi S. Garner, DO, Chartered (Pittsburgh, KS)
 
-<br />
 ### Region-specific portions of the database have been shared with:
 
 - South Central Regional Medical Center (Laurel, MS)
 
-<br />
 ### Region-specific portions of the database have been shared after respondent opt-in with:
 
 - Curative Inc (Los Angeles, CA)
