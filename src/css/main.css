@@ -85,3 +85,17 @@
 
 /* Uncomment out the line below to help debug layout issues */
 /*@import './imports/_debug';*/
+
+/* Below is custom -DM */
+h1 {
+    font-size: 2.25rem;		/* Same as f2 */
+}
+
+h3 {
+    font-size: 1.25rem;;		  /* Same as f4 */
+    font-weight: var(--bold-font-weight); /* Same as b */
+}
+
+h4 {
+    font-weight: var(--bold-font-weight); /* Same as b */
+}

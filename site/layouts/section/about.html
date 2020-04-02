@@ -2,18 +2,7 @@
 
 <div class="mw7 center ph3 pt4">
 
-  <h1 class="f2">About</h1>
-
-  <p>{{ .Params.description }}</p>
-  
-  <h1 class="f2">FAQ</h1>
-  
-  {{ range .Params.entries }}
-  <p>
-    <span class="b">{{ .question }}</span><br />
-    {{ .answer }}
-  </p>
-  {{ end }}
+  {{ .Content }}
   
 </div>
 
