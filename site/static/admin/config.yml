@@ -13,11 +13,6 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/about/_index.md"
-        label: "About/FAQ"
-        name: "about"
-        fields:
-          - {label: Body, name: body, widget: markdown}
       - file: "site/content/join/_index.md"
         label: "Join Us"
         name: "join"
@@ -51,6 +46,11 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/resources/_index.md"
         label: "Resources"
         name: "resources"
+        fields:
+          - {label: Body, name: body, widget: markdown}
+      - file: "site/content/faq/_index.md"
+        label: "FAQ"
+        name: "faq"
         fields:
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/contact_index.md"
