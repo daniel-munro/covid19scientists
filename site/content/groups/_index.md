@@ -46,13 +46,17 @@ Location: Seattle, WA and Slack (covidresearch.slack.com)\
 Organizers: **Jacob Lee** & **Jin Choe** (Genemod)\
 Contacts: jlee@genemod.net (Jacob Lee)
 
+#### Georgetown University COVID-19 Response Team
+
+Location: Washington, DC/Georgetown University\
+Organizers: **Michael Parker PhD** (Assistant Dean), **Alexandra Mushegian PhD** (Postdoctoral Fellow), & **Zeeba Manavi MS** (Research Assistant/Prospective Graduate Student)\
+Contacts: [michael.parker@georgetown.edu](mailto:michael.parker@georgetown.edu) (Michael Parker), [amushegian@gmail.com](mailto:amushegian@gmail.com) (Sasha Mushegian),[zm114@georgetown.edu](mailto:zm114@georgetown.edu) (Zeeba Manavi)
+
 #### Rochester Area COVID-19 Response
 
 Location: Rochester, NY\
 Organizers: **Derek Crowe** (University of Rochester)\
 Contacts: dcrowe13@gmail.com (Derek Crowe)
-
-
 
 #### San Diego Covid REsearch Enterprise Network (SCREEN)
 
