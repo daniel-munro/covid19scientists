@@ -20,5 +20,6 @@ title: Meet the Team
 * **Ian Kerman**, Dassault Systemes BIOVIA
 * **Daniel Munro**, PhD, Scripps Research & UC San Diego
 * **Forrest J. Allen**
+* **Tim Lee**, Dell EMC
 
 <!--EndFragment-->
