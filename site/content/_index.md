@@ -1,7 +1,7 @@
 ---
 title: COVID-19 National Scientist Volunteer Database
 ---
-# **Welcome to the COVID-19 National Scientist Volunteer Database​**
+# Welcome to the COVID-19 National Scientist Volunteer Database​
 
 
 
