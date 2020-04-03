@@ -100,3 +100,21 @@ h3 {
 h4 {
     font-weight: var(--bold-font-weight); /* Same as b */
 }
+
+@import './imports/_hovers';
+
+.shadow {
+    box-shadow: 0 1px 10px #999;
+}
+
+.left-0 {
+    left: 0;
+}
+
+.left--100 {
+    left: -100%;
+}
+
+#menu {
+    transition: 0.2s;
+}

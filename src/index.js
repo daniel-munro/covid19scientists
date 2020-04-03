@@ -9,14 +9,14 @@ const menu = document.getElementById('menu');
 const menuBtn = document.getElementById('menuBtn');
 
 function closeMenu() {
-    menu.classList.add('left-100');
-    menu.classList.remove('left-50');
+    menu.classList.add('left--100');
+    menu.classList.remove('left-0');
     menuIsOpen = false;
 }
 
 function openMenu() {
-    menu.classList.add('left-50');
-    menu.classList.remove('left-100');
+    menu.classList.add('left-0');
+    menu.classList.remove('left--100');
     menuIsOpen = true;
 }
 
