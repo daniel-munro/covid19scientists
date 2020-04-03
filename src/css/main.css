@@ -87,8 +87,10 @@
 /*@import './imports/_debug';*/
 
 /* Below is custom -DM */
-h1 {
-    font-size: 2.25rem;		/* Same as f2 */
+
+h1 { font-size: 2rem; }
+@media (--breakpoint-not-small) {
+    h1 { font-size: 2.25rem; }		/* Same as f2 */
 }
 
 h3 {
@@ -117,4 +119,18 @@ h4 {
 
 #menu {
     transition: 0.2s;
+}
+
+iframe {
+    max-width: 100%;
+}
+
+ol, ul {
+    margin-top: 10px;		/* Defaults are too much. */
+    margin-bottom: 10px;
+}
+
+#team ul {
+    list-style: none;
+    padding: 0;
 }
