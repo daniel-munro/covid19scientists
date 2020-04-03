@@ -1,7 +1,6 @@
 ---
 title: About/FAQ
 ---
-
 # About
 
 ​This is a database of scientists from all 50 states, DC, Puerto Rico, and Guam who are eager to volunteer our time, expertise, equipment, and consumables to help you respond to the COVID-19 crisis. We have aggregated our contact information, locations, and skills sets into this easy to use centralized database. Our members include experts in scientific testing, bioinformatics, and data management, as well as key contacts willing to donate lab space and testing supplies.
@@ -40,15 +39,3 @@ Please check this updated list of active groups. If you do not see your communit
 
 **I want to edit my response or remove my information from the database—how do I do this?**\
 After completing the intake form, you should receive an email confirmation from Google Forms. This email includes an “Edit Response” button that allows you to amend your submission.
-
-**How else can I help?**\
-If you have Personal Protective Equipment (PPE) to donate, we highly suggest visiting https://getusppe.org. There are also volunteering opportunities available through https://crowdfightcovid19.org/ that we suggest checking out.
-
-**Any other questions/concerns?**\
-Please contact us at [COVID19SciVolunteers@gmail.com](mailto:COVID19SciVolunteers@gmail.com) for additional issues not addressed in the FAQ section.
-
-**COVID-19 National Scientist Volunteer Database Coordination Team roster**
-- Michael F. Wells, PhD / Postdoctoral Fellow / Broad Institute & Harvard University
-- Kevin Schallert / Chambre LP
-- Crystal Lantz, PhD / Postdoctoral Fellow / University of Maryland
-- Sasha Luks-Morgan / PhD Candidate / University of Utah
