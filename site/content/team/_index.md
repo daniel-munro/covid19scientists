@@ -1,6 +1,8 @@
 ---
 title: Meet the Team
 ---
+![](img/group_photo.jpg)
+
 # Meet the Team<!--StartFragment-->
 
 * **Michael F. Wells, PhD**, Harvard University
@@ -18,7 +20,5 @@ title: Meet the Team
 * **Ian Kerman**, Dassault Systemes BIOVIA
 * **Daniel Munro**, PhD, Scripps Research & UC San Diego
 * **Forrest J. Allen**
-
-
 
 <!--EndFragment-->
