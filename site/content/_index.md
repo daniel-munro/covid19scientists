@@ -9,9 +9,9 @@ Please spread the word to other scientists as well as the decision makers in you
 
 # In the News
 
-<https://apnews.com/8e9e0a20377f0547629e226f0f73f909>
+Associated Press. ["Calling all scientists: Experts volunteer for virus fight."](https://apnews.com/8e9e0a20377f0547629e226f0f73f909) (03.30.20)
 
-Ologies with Alie Ward podcast ["All (washed) hands on deck."](https://www.alieward.com/ologies/handsondeck) (03.21.20)
+Ologies with Alie Ward podcast. ["All (washed) hands on deck."](https://www.alieward.com/ologies/handsondeck) (03.21.20)
 
 PNAS. ["Molecular biologists offer "wartime service" in the effort to test for COVID-19."](http://blog.pnas.org/2020/04/preview-inner-workings-molecular-biologists-offer-wartime-service-in-the-effort-to-test-for-covid-19/) (04.02.20)
 
