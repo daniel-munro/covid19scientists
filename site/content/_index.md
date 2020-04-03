@@ -12,3 +12,5 @@ Please spread the word to other scientists as well as the decision makers in you
 
 
 # In the News
+
+<https://apnews.com/8e9e0a20377f0547629e226f0f73f909>
