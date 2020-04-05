@@ -22,6 +22,7 @@ title: Meet the Team
 * **Anna Waldman-Brown**, MIT Technology policy
 * **Gajen Sunthara**, Former White House Presidential Innovation Fellow & United States Digital Service
 * **Vincent Law**, Research Associate, Neuro-Oncology, Moffitt Cancer Center
+* **Zeeba Manavi, MS**, Georgetown University
 * **Forrest J. Allen**
 
 <!--EndFragment-->
