@@ -27,7 +27,7 @@ title: Successes
 
 ### The following local organizations  have access to the database:
 
-* Houston Covid-19 Response (TX)
+* Houston COVID-19 Response (TX)
 * Biomed Tech Rapid Response (NY)
 * Biomedical Technician Rapid Response Team (Madison, WI)
 * Seattle COVID-19 Response Network (WA)
