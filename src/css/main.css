@@ -137,3 +137,13 @@ ol, ul {
     list-style: none;
     padding: 0;
 }
+
+#logo {
+    width: 25px;
+}
+@media (--breakpoint-medium) {
+    #logo { width: 40px; }
+}
+@media (--breakpoint-large) {
+    #logo { width: 50px; }
+}
