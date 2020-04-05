@@ -1,7 +1,9 @@
 ---
 title: Resources
 ---
-# Other ways to get involved
+# External Initiatives
+
+## Other ways to get involved
 
 * Donate personal protective equipment (PPE) at [GetUsPPE](https://getusppe.org/)
 * Perform scientific tasks for COVID-19 scientists at [Crowd Fight COVID](https://crowdfightcovid19.org/)
