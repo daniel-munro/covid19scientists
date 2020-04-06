@@ -62,3 +62,9 @@ Contacts: dcrowe13@gmail.com (Derek Crowe)
 
 Location: San Diego, Grassroots movement of researchers from University of California San Diego, Salk, Scripps, Sanford-Burnham, San Diego State University\
 Organizers: **Gene Yeo, PhD MBA**. Professor of Cellular and Molecular Medicine, UCSD & **Stefan Aigner, PhD**, Project Scientist Yeo Lab.
+
+#### COVID19 Resources Canada
+
+Location: Canada\
+Organizers: **Guillaume Bourque, PhD**,Professor, McGill University & **Tara Moriarty, PhD**,Associate Professor, University of Toronto\
+Contacts: <https://covid19resources.ca/>
