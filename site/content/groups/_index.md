@@ -9,7 +9,7 @@ If you are interested in organizing a local group of scientist volunteers, pleas
 2. Download our "How-to Guide" for tips on how to build your team
 3. Contact us at COVID19SciVolunteers@gmail.com to receive an invitation to our Slack channel
 
-&nbsp..
+
 
 #### Biomed Tech Rapid Response
 
