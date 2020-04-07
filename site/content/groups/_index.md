@@ -11,7 +11,9 @@ If you are interested in organizing a local group of scientist volunteers, pleas
 
 
 
-## We are aware of the following active local groups in the United States and Canada:
+
+
+# We are aware of the following active local groups in the United States and Canada:
 
 #### Biomed Tech Rapid Response
 
