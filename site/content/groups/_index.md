@@ -3,6 +3,16 @@ title: Community Groups
 ---
 # Community Groups
 
+If you are interested in organizing a local group of scientist volunteers, please these three easy steps:
+
+1.  Check below to see if a group already exists in your community
+2. Download our "How-to Guide" 
+3. Contact us at COVID19SciVolunteers@gmail.com to receive an invitation to our Slack channel
+
+
+
+## We are aware of the following active local groups in the United States and Canada:
+
 #### Biomed Tech Rapid Response
 
 Location: State of New York\
