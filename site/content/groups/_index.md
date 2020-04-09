@@ -48,11 +48,7 @@ Organizers: **Ken Olive** (Faculty Advisor), **Natalie Steinemann** (Chief Proje
 Contacts: "Chiara Bertipaglia (Social Media Manager) at columbiaresearcherscovid19@gmail.com; [Columbia Researchers Against Coronavirus](https://www.olivelab.org/columbia-researchers-against-coronavirus.html)\
 *Note: group membership is restricted to Columbia University affiliates, but collaboration proposals are being accepted from outside groups*
 
-#### Seattle COVID-19 Response Network
 
-Location: Seattle, WA and Slack (covidresearch.slack.com)\
-Organizers: **Jacob Lee** & **Jin Choe** (Genemod)\
-Contacts: jlee@genemod.net (Jacob Lee)
 
 #### Georgetown University COVID-19 Response Team
 
