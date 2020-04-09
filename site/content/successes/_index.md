@@ -31,6 +31,7 @@ title: Successes
 * Biomed Tech Rapid Response (NY)
 * Biomedical Technician Rapid Response Team (Madison, WI)
 * Seattle COVID-19 Response Network (WA)
+* LA Fighting COVID (CA)
 * Connecticut COVID19 Response Network (Storrs, CT)
 * Rochester Area COVID-19 Response (Rochester, NY)
 * Dallas Regional Chamber (Dallas, TX)
