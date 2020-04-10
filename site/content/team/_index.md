@@ -23,7 +23,5 @@ title: Meet the Team
 * **Gajen Sunthara**, Former White House Presidential Innovation Fellow & United States Digital Service
 * **Vincent Law**, Research Associate, Neuro-Oncology, Moffitt Cancer Center
 * **Zeeba Manavi, MS**, Georgetown University
-* **Jacob Lee,** CEO and co-founder of Genemod, Inc.
-* **Forrest J. Allen**
 
 <!--EndFragment-->
