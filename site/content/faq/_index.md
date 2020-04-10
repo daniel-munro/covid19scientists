@@ -13,7 +13,7 @@ Our plan is to create a national database of scientists located in the United St
 The database includes the following: basic contact information, location (zip code + state), skill set (e.g. RNA extraction, qPCR, ELISA), and availability of critical COVID-19 testing reagents for donation (RNA extraction kits, general equipment).
 
 **Who will have access to the database?**\
-The database will be shared with key contacts throughout the country. This includes decision makers in state/county health departments, universities, and hospitals who are looking to recruit skilled scientists for COVID-19 testing and other disease-related tasks OR attempting to acquire the equipment/reagents required for testing. This database will also be shared with select scientists and health care specialists trying to organize at the local level.
+The database will be shared with key contacts throughout the country. This includes decision makers in state/county health departments, universities, and hospitals who are looking to recruit skilled scientists for COVID-19 testing and other disease-related tasks OR attempting to acquire the equipment/reagents required for testing. This database will also be shared with select scientists and health care specialists trying to organize at the local level. The terms of use for those granted database access can be found at the bottom of this page.
 
 **Who currently has access to the database?**\
 A version of the database without publicly identifiable information is available [HERE](/public-db) to help public health officials identify local volunteers and assets. An updated list of groups and organizations that have access to the full database can be found [HERE](/successes).
@@ -34,7 +34,7 @@ Please contact us at [COVID19SciVolunteers+organizer@gmail.com](mailto:COVID19Sc
 Please check this [updated list of active groups](https://covid19sci.org/groups/). If you do not see your community on the list, contact us at COVID19SciVolunteers+organizer@gmail.com and we can discuss community-building strategies.
 
 **I want to edit my response or remove my information from the database—how do I do this?**\
-After completing the intake form, you should receive an email confirmation from Google Forms. This email includes an “Edit Response” button that allows you to amend your submission.\
+After completing the intake form, you should receive an email confirmation from Google Forms. This email includes an “Edit Response” button that allows you to amend your submission.
 
 
 
