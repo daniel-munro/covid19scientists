@@ -18,6 +18,7 @@ title: Meet the Team
 * Aaron Green, PhD,Iridium Consulting
 * Ben Aldern
 * Tim Lee, Dell EMC
+* Gregory Bonsignore, Media Relations
 * Ian Kerman, Dassault Systemes BIOVIA
 * Forrest Allen
 * Daniel Munro,PhD, Scripps Research & UC San Diego
@@ -27,10 +28,6 @@ title: Meet the Team
 * Vincent Law, Research Associate, Neuro-Oncology, Moffitt Cancer Center
 * Zeeba Manavi, MS, Georgetown University
 
-
-
 <!--EndFragment-->
-
-
 
 <!--EndFragment-->
