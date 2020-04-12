@@ -11,6 +11,7 @@ title: Successes
 * North Carolina Department of Health and Human Services
 * Illinois Department of Public Health, Department of Transportation
 * Idaho Division of Public Health
+* Wyoming Public Health Laboratory
 * Island County Dept. of Emergency Management (WA)
 * Georgia State Senate
 * EndCoronavirus.org
