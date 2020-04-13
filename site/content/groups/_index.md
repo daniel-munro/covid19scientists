@@ -15,19 +15,19 @@ If you are interested in organizing a local group of scientist volunteers, pleas
 
 Location: State of New York\
 Organizers: **Nadia Khan, PhD**. Postdoctoral Fellow in Neuroscience at Icahn School of Medicine at Mount Sinai & **Alexandria Trujillo, PhD** (Pharmacology and Toxicology)\
-Contacts: nadiankhan1@gmail.com; alexandriajtrujillo@gmail.com; sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfIo7HMJYOuJmDeCG0Is2FLvGHzeU3WN47kcQB7t-fXuYu7XA/viewform).
+Contacts: nadiankhan1@gmail.com; alexandriajtrujillo@gmail.com; volunteer sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfIo7HMJYOuJmDeCG0Is2FLvGHzeU3WN47kcQB7t-fXuYu7XA/viewform).
 
 #### Biomedical Technician Rapid Response Team
 
 Location: University of Wisconsin-Madison; Madison, Wisconsin\
 Organizers: **Nicole Piscopo**, Graduate Research Fellow in Biomedical Engineering & **Katie Mueller**, Graduate Research Fellow in Cellular and Molecular Biology (both University of Wisconsin-Madison)\
-Contacts: npiscopo@wisc.edu; kmueller22@wisc.edu; sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfpZv1Nu0tqAxxoCFSOOQ8WkRKcf_AdRiPXoPtEBPZgc-OCwA/viewform).
+Contacts: npiscopo@wisc.edu; kmueller22@wisc.edu; volunteer sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfpZv1Nu0tqAxxoCFSOOQ8WkRKcf_AdRiPXoPtEBPZgc-OCwA/viewform).
 
 #### Greater Boston Consortium for Pathogen Readiness
 
 Location: Broad Institute; Cambridge, MA\
 Organizers: **Tatiana Mansurova**, Project Coordinator at Broad Institute\
-Contacts: tatiana@broadinstitute.org, sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLScmuCXJib_AF0_eRp43Jp9IQlhU4TpNFv1_xSQIxuvhXh2BWA/viewform).
+Contacts: tatiana@broadinstitute.org, volunteer sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLScmuCXJib_AF0_eRp43Jp9IQlhU4TpNFv1_xSQIxuvhXh2BWA/viewform).
 
 #### UMass-Amherst COVID-19 Response Teams
 
@@ -71,7 +71,7 @@ Contacts: dcrowe13@gmail.com (Derek Crowe)
 
 Location: San Diego, Grassroots movement of researchers from University of California San Diego, Salk, Scripps, Sanford-Burnham, San Diego State University\
 Organizers: **Gene Yeo, PhD MBA**. Professor of Cellular and Molecular Medicine, UCSD & **Stefan Aigner, PhD**, Project Scientist Yeo Lab.\
-Volunteer form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfo18hylllsgomF5tt8rrr2mbVFRGpqc2AwCJZ8q8lmBdoW4w/viewform)
+Volunteer sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfo18hylllsgomF5tt8rrr2mbVFRGpqc2AwCJZ8q8lmBdoW4w/viewform)
 
 #### COVID19 Resources Canada
 
