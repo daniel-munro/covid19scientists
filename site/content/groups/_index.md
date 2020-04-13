@@ -29,6 +29,13 @@ Location: Broad Institute; Cambridge, MA\
 Organizers: **Tatiana Mansurova**, Project Coordinator at Broad Institute\
 Contacts: tatiana@broadinstitute.org, sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLScmuCXJib_AF0_eRp43Jp9IQlhU4TpNFv1_xSQIxuvhXh2BWA/viewform).
 
+#### UMass-Amherst COVID-19 Response Teams
+
+Location: Amherst, MA at the University of Massachusetts Amherst\
+Organizers: **Peter Reinhart**\
+Contacts: phr@umass.edu, volunteer sign-up form [[HERE](https://www.umass.edu/ials/ials-covid-19-volunteer-sign)]\
+Website: [https://www.umass.edu/ials/​covid19](https://www.umass.edu/ials/covid19)
+
 #### Connecticut COVID19 Response Network
 
 Location: Storrs, CT at University of Connecticut\
