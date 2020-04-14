@@ -21,7 +21,8 @@ title: Meet the Team
 * Gregory Bonsignore, Media Relations
 * Ian Kerman, Dassault Systemes BIOVIA
 * Forrest Allen
-* Daniel Munro,PhD, Scripps Research & UC San Diego
+* Daniel Munro, PhD, Scripps Research & UC San Diego
+* Katherine Mueller, Graduate Research Fellow, University of Wisconsin-Madison
 * Karen Scott, MIT Sloan, Economics policy
 * Anna Waldman-Brown, MIT Technology policy
 * Gajen Sunthara, Former White House Presidential Innovation Fellow & United States Digital Service
