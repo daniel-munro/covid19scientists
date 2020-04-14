@@ -13,7 +13,7 @@ Our plan is to create a national database of scientists located in the United St
 The database includes the following: basic contact information, location (zip code + state), skill set (e.g. RNA extraction, qPCR, ELISA), and availability of critical COVID-19 testing reagents for donation (RNA extraction kits, general equipment).
 
 **Who will have access to the database?**\
-The database will be shared with key contacts throughout the country. This includes decision makers in state/county health departments, universities, and hospitals who are looking to recruit skilled scientists for COVID-19 testing and other disease-related tasks OR attempting to acquire the equipment/reagents required for testing. This database will also be shared with select scientists and health care specialists trying to organize at the local level. The terms of use for those granted database access can be found at the bottom of this page.
+The database will be shared with key contacts throughout the country. This includes decision makers in state/county health departments, universities, and hospitals who are looking to recruit skilled scientists for COVID-19 testing and other disease-related tasks OR attempting to acquire the equipment/reagents required for testing. This database will also be shared with select scientists and health care specialists trying to organize at the local level. The approval process for granting full database access as well as the terms of use can be found at the bottom of this page.
 
 **Who currently has access to the database?**\
 A version of the database without publicly identifiable information is available [HERE](/public-db) to help public health officials identify local volunteers and assets. An updated list of groups and organizations that have access to the full database can be found [HERE](/successes).
@@ -36,12 +36,9 @@ Please check this [updated list of active groups](https://covid19sci.org/groups/
 **I want to edit my response or remove my information from the database—how do I do this?**\
 After completing the intake form, you should receive an email confirmation from Google Forms. This email includes an “Edit Response” button that allows you to amend your submission.
 
-
-
 **Terms of Use for Individuals & Entities with Full Database Access**
 
 The COVID-19 National Scientist Volunteer Database is coordinated by volunteers who are committed to supporting the connection between decision-makers and volunteer scientists in the fight against covid19. We count on our users to act in good faith to limit database use to only activities that support our shared goal of solving the current covid19 crisis. The below terms are not exhaustive and if in doubt about a particular use case, please reach out at COVID19SciVolunteers@gmail.com for consultation.
-
 
 1. Agree to not use the database for commercial purposes including, but not limited to, commercial recruiting, solicitation and advertising
 2. Agree to not share the database outside approved organization
@@ -50,3 +47,17 @@ The COVID-19 National Scientist Volunteer Database is coordinated by volunteers 
 5. Agree to make best efforts to limit mass emailing the database
 6. Agree to use regional and local filters, as appropriate, to localize calls to action that require local support
 7. Agree to work with the coordination team before sending any national email blasts
+
+**Approval process for database access**
+
+We take protecting your personal information seriously. As a result, we have a multi-member Access Approval Task Force that reviews each data access request and approves or denies it based on the following procedures (Note: in all cases, requestors must agree to terms of use): 
+
+*For govt officials with .gov addresses*: Immediate access granted after validation of requestor's position.
+
+*For non-profits, hospital/university administrators:* Task force conducts online vetting of entity and may reach out with additional clarifying questions prior to reaching a decision.
+
+*For current or prospective local organizers*:  Task force conducts online vetting of requestor prior to scheduling a brief Zoom meeting with requestor. After the Zoom meeting, the task force makes decision. In most cases, only access to regional data will be shared with local organizer. 
+
+*For for-profit testing sites:* We will not directly share private information with for-profit companies. However, we will coordinate opt-in procedures for for-profit testing centers that are or will soon be approved for COVID-19 testing. In these situations, the task force conducts online vetting of the company prior to scheduling a brief Zoom meeting with requestor. If the company meets certain requirements, we will offer to contact volunteer scientists from the database located near the requesting company and give these volunteers the option to opt-in to having their information shared with the company for COVID-19 purposes only. 
+
+**\*\*Under no circumstances will we grant access to companies trying to advertise or sell products of any kind, or those trying to recruit employees for non-COVID19 purposes. If you are ever contacted by an entity misusing the database in this manner, we ask you to report it to us immediately at COVID19SciVolunteers@gmail.com\*\***
