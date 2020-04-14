@@ -46,7 +46,13 @@ Contacts: Katharine_225@yahoo.com, mescobar2798@gmail.com, ashley.benitez1@gmail
 
 Location: Houston, TX and Slack (htx-covid.slack.com)\
 Organizers: **Emily Reiser** & **Will Clifton** (Enventure)\
-Contacts: Tracy.faustermann@gmail.com (Tracy Faustermann)
+Contacts: Tracy.faustermann@gmail.com (Tracy Faustermann)\
+
+#### UC Irvine COVID-19 Volunteers
+
+Location: Orange County, CA\
+Organizers: **Theresa Loveless, PhD**. Postdoctoral Fellow, Biomedical Engineering & **Katrine Whiteson, PhD**, Assistant Professor, Molecular Biology and Biochemistry\
+Contacts: tberens@gmail.com, katrine@uci.edu; volunteer sign-up form [HERE](https://tinyurl.com/UCI-COVID19-VolunteerQuestions)
 
 #### Columbia University Researchers Against COVID-19
 
