@@ -11,3 +11,4 @@ title: Resources
 * Participate in volunteer planning efforts at [EndCoronavirus.org](endcoronavirus.org)
 * Volunteer as a subject for the NIH study on undetected COVID-19 cases at [NIAID](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
 * Keep up-to-date with COVID-19 research at the American Society for Microbiology's [Research Registry](https://asm.org/COVID/COVID-19-Research-Registry/Home)
+* State-run volunteer opportunities are available in [Washington](https://www.doh.wa.gov/Emergencies/NovelCoronavirusOutbreak2020COVID19/HealthcareProviders/EmergencyVolunteerHealthPractitioners), [Idaho](https://coronavirus.idaho.gov/how-to-help/), and [South Dakota](https://volunteers.sd.gov/).
