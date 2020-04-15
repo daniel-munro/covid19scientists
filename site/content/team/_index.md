@@ -12,10 +12,10 @@ title: Meet the Team
 * Crystal Lantz, PhD, University of Maryland
 * Sasha Luks-Morgan, University of Utah
 * Jonathan Stricker, Brigham and Women's Hospital
-* Joseph Keller,PhD, NSF & APA
+* Joseph Keller, PhD, APA
 * Zach Coto, Boston University
 * Manish Gupta
-* Aaron Green, PhD,Iridium Consulting
+* Aaron Green, PhD, Iridium Consulting
 * Ben Aldern
 * Tim Lee, Dell EMC
 * Gregory Bonsignore, Media Relations
