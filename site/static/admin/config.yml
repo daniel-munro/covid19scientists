@@ -53,6 +53,16 @@ collections: # A list of collections the CMS should be able to edit
         name: "faq"
         fields:
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/terms-of-use/_index.md"
+        label: "Terms of Use"
+        name: "terms-of-use"
+        fields:
+          - {label: Body, name: body, widget: markdown}
+      - file: "site/content/approval-process/_index.md"
+        label: "Approval Process"
+        name: "approval-process"
+        fields:
+          - {label: Body, name: body, widget: markdown}
       - file: "site/content/contact_index.md"
         label: "Contact Us"
         name: "contact"
