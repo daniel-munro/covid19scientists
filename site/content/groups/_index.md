@@ -7,7 +7,7 @@ If you are interested in organizing a local group of scientist volunteers, pleas
 
 1. Check below to see if a group already exists in your community
 2. Download our ["How-to Guide"](/Community%20How%20to%20Guide.pdf) for tips on how to build your team
-3. Contact us at COVID19SciVolunteers@gmail.com to receive an invitation to our Slack channel
+3. Fill out [this form](https://tinyurl.com/covid19leads) to get in touch--someone from our team will reach out to you shortly. 
 
 <br/><br/>
 
