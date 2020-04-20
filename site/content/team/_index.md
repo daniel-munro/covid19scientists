@@ -14,7 +14,7 @@ title: Meet the Team
 * Jonathan Stricker, Brigham and Women's Hospital
 * Joseph Keller, PhD, APA
 * Zach Coto, Boston University
-* Manish Gupta
+* Manish Gupta, DBSentry Corp
 * Aaron Green, PhD, Iridium Consulting
 * Ben Aldern
 * Tim Lee, Dell EMC
