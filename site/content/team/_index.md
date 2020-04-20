@@ -16,7 +16,7 @@ title: Meet the Team
 * Zach Coto, Boston University
 * Manish Gupta, DBSentry Corp
 * Aaron Green, PhD, Iridium Consulting
-* Ben Aldern
+* Ben Aldern, Prestozon
 * Tim Lee, Dell EMC
 * Gregory Bonsignore, Media Relations
 * Ian Kerman, Dassault Systemes BIOVIA
