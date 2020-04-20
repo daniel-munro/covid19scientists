@@ -21,6 +21,7 @@ title: Successes
 
 * Yale University (CT)
 * Howard University (DC)
+* Michigan State University
 * University of Maryland School of Public Health
 * Center for Disaster Risk Policy (Florida State University)
 * Greater Boston Consortium for Pathogen Readiness (Broad Institute)
