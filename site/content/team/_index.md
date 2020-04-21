@@ -20,7 +20,7 @@ title: Meet the Team
 * Tim Lee, Dell EMC
 * Gregory Bonsignore, Media Relations
 * Ian Kerman, Dassault Systemes BIOVIA
-* Forrest Allen
+* Forrest Allen, Unity Technologies, Live Data Platform
 * Daniel Munro, PhD, Scripps Research & UC San Diego
 * Katherine Mueller, Graduate Research Fellow, University of Wisconsin-Madison
 * Karen Scott, MIT Sloan, Economics policy
