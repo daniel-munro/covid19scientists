@@ -7,6 +7,10 @@ This is a database of  9,000 scientists from all 50 states, DC, Puerto Rico, and
 
 Please spread the word to other scientists as well as the decision-makers in your city, county, and state government who can turn this database into action.
 
+## Map of volunteer scientists
+
+{{< rawhtml >}}<div class="map"><iframe width="100%" height="400px" src="https://covid19.bioviaonline.com/webapps/covid19/ScientistMap.htm" width=>Loading…</iframe></div>{{< /rawhtml >}}
+
 # How to gain access to the database
 
 If you are a government, university, or hospital decision-maker trying to access the database to staff testing facilities or acquire reagents, OR a local scientist organizer trying to build a team in your community, please fill out the [data access request form](https://covid19sci.org/access/). For more information, check out our [FAQ](https://covid19sci.org/faq/) page 

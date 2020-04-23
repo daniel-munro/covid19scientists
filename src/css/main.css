@@ -88,6 +88,10 @@
 
 /* Below is custom -DM */
 
+body {
+    background-color: white;  /* Override off-white from somewhere. */
+}
+
 h1 {
     font-size: 2rem;
     margin-bottom: 10px;
@@ -174,3 +178,10 @@ ol, ul {
     }
 }
 
+.map {
+    /* border: 1px solid #dddddd; */
+    /* border-radius: 3px; */
+    /* margin-left: -10px; */
+    /* margin-right: -10px; */
+    /* width: calc(100% + 20px); */
+}
