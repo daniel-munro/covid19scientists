@@ -1,7 +1,6 @@
 ---
 title: Terms of Use
 ---
-
 # Terms of Use
 
 ## for Individuals & Entities with Full Database Access
@@ -14,4 +13,5 @@ The COVID-19 National Scientist Volunteer Database is coordinated by volunteers 
 4. Agree to destroy all database records when approved organization is no longer actively working on covid19
 5. Agree to make best efforts to limit mass emailing the database
 6. Agree to use regional and local filters, as appropriate, to localize calls to action that require local support
-7. Agree to work with the coordination team before sending any national email blasts
+7. Agree to work with the coordination team before sending any national email blasts.
+8. Agree to inform email recipients that you received their contact information from the COVID-19 National Scientist Volunteer Database
