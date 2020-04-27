@@ -13,6 +13,7 @@ title: Successes
 * Idaho Division of Public Health
 * Wyoming Public Health Laboratory
 * Island County Dept. of Emergency Management (WA)
+* Translational Genomics Research Institute (AZ)
 * Georgia State Senate
 * EndCoronavirus.org
 * OpenCovid.care (Open Source Pharma Foundation & Cri-Paris collaboration)
@@ -47,3 +48,4 @@ title: Successes
 ### Region-specific portions of the database have been shared after respondent opt-in with:
 
 * Curative Inc (Los Angeles, CA)
+* SpaceX (Hawthorne, CA)
