@@ -7,10 +7,6 @@ This is a database of  9,000 scientists from all 50 states, DC, Puerto Rico, and
 
 Please spread the word to other scientists as well as the decision-makers in your city, county, and state government who can turn this database into action.
 
-## Map of volunteer scientists
-
-{{< rawhtml >}}<div class="map"><iframe width="100%" height="400px" src="https://covid19.bioviaonline.com/webapps/covid19/ScientistMap.htm" width=>Loading…</iframe></div>{{< /rawhtml >}}
-
 # In the News
 
 {{< rawhtml >}}<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k2PtedjVYBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{< /rawhtml >}}
