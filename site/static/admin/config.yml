@@ -13,16 +13,16 @@ collections: # A list of collections the CMS should be able to edit
         name: "home"
         fields:
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/join/_index.md"
-        label: "Join Us"
-        name: "join"
-        fields:
-          - {label: Body, name: body, widget: markdown}
-      - file: "site/content/public-db/_index.md"
-        label: "Public Database"
-        name: "public-db"
-        fields:
-          - {label: Body, name: body, widget: markdown}
+      # - file: "site/content/join/_index.md"
+      #   label: "Join Us"
+      #   name: "join"
+      #   fields:
+      #     - {label: Body, name: body, widget: markdown}
+      # - file: "site/content/public-db/_index.md"
+      #   label: "Public Database"
+      #   name: "public-db"
+      #   fields:
+      #     - {label: Body, name: body, widget: markdown}
       - file: "site/content/access/_index.md"
         label: "Access the Database"
         name: "access"
@@ -68,7 +68,7 @@ collections: # A list of collections the CMS should be able to edit
         name: "in-the-news"
         fields:
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/contact_index.md"
+      - file: "site/content/contact/_index.md"
         label: "Contact Us"
         name: "contact"
         fields:
