@@ -3,9 +3,7 @@ title: Meet the Team
 ---
 ![](img/group_photo.jpg)
 
-# Meet the Team<!--StartFragment-->
-
-<!--StartFragment-->
+# Meet the Team
 
 * Michael F. Wells, PhD, Harvard University
 * Kevin Schallert, Chambre LP
@@ -29,6 +27,3 @@ title: Meet the Team
 * Vincent Law, Research Associate, Neuro-Oncology, Moffitt Cancer Center
 * Zeeba Manavi, MS, Georgetown University
 
-<!--EndFragment-->
-
-<!--EndFragment-->

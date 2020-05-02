@@ -33,9 +33,9 @@ collections: # A list of collections the CMS should be able to edit
         name: "groups"
         fields:
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/successes/_index.md"
-        label: "Successes"
-        name: "successes"
+      - file: "site/content/who-has-access/_index.md"
+        label: "Who Has Access"
+        name: "who-has-access"
         fields:
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/team/_index.md"
@@ -61,6 +61,11 @@ collections: # A list of collections the CMS should be able to edit
       - file: "site/content/approval-process/_index.md"
         label: "Approval Process"
         name: "approval-process"
+        fields:
+          - {label: Body, name: body, widget: markdown}
+      - file: "site/content/in-the-news/_index.md"
+        label: "In the News"
+        name: "in-the-news"
         fields:
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/contact_index.md"
