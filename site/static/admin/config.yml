@@ -48,7 +48,7 @@ collections: # A list of collections the CMS should be able to edit
             fields:
               - {label: Name, name: name, widget: string}
               - {label: Work title, name: work_title, widget: string}
-              - {label: NSVD title, name: nsvd:title, widget: string}
+              - {label: NSVD title, name: nsvd_title, widget: string}
               - {label: Bio, name: bio, widget: markdown}
       - file: "site/content/resources/_index.md"
         label: "Resources"

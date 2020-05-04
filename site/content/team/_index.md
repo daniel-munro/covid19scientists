@@ -62,7 +62,7 @@ people:
     work_title: Postdoctoral Fellow, UC Davis
     nsvd_title: Social Media Coordinator
     bio: Alexandra (Alex) is a Social Media Coordinator at NSVD. She is a postdoctoral fellow at the University of California Davis College of Biological Sciences. Her position involves neuroscience and science communication. Her research work focuses in understanding the effects of single parenting in the amygdala of parents and offspring. Her SciComm work includes developing a SciComm training program for faculty at UC Davis in collaboration with UC San Diego.
-    picture: Alex Colón-Rodríguez.jpg
+    picture: Alex_Colon-Rodriguez
   - name: Shruti Muralidhar
     work_title: Postdoctoral associate, Picower institute, MIT
     nsvd_title: Social Media Coordinator
