@@ -42,7 +42,14 @@ collections: # A list of collections the CMS should be able to edit
         label: "Meet the Team"
         name: "team"
         fields:
-          - {label: Body, name: body, widget: markdown}
+          - label: People
+            name: people
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Work title, name: work_title, widget: string}
+              - {label: NSVD title, name: nsvd:title, widget: string}
+              - {label: Bio, name: bio, widget: markdown}
       - file: "site/content/resources/_index.md"
         label: "Resources"
         name: "resources"

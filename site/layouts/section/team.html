@@ -1,9 +1,58 @@
 {{ define "main" }}
 
-<div id="team" class="mw7 center ph3 pt2">
+<div id="team" class="center ph3 pt2">
 
-  {{ .Content }}
-    
+  <h1 class="tc">Meet the Team</h1>
+
+  <div class="grid">
+
+    {{ range .Params.people }}
+    <div class="grid-item team-card {{ with .picture }}{{ else }}team-card-no-pic{{ end}}">
+      {{ with .picture }}
+      <!-- Set dimensions for layout before image load, though CSS resizes if necessary. -->
+      <img src="/img/team/{{ . }}" width="400" height="400">
+      {{ end }}
+      <div class="pt2 ph3">
+        <h2 class="b">{{ .name }}</h2>
+        <h3>{{ .nsvd_title }}</h3>
+        <h4>{{ .work_title }}</h4>
+        <p>{{ .bio | markdownify }}</p>
+      </div>
+    </div>
+    {{ end }}
+
+  </div>
+
 </div>
 
+<script src="/js/imagesloaded.pkgd.min.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+<script>
+  // init Masonry
+  var msnry = new Masonry('.grid', {
+    itemSelector: '.grid-item',
+    isFitWidth: true,
+    gutter: 20
+  });
+  // layout Masonry after each image loads (doesn't seem to work)
+  imagesLoaded(msnry).progress(function () {
+    msnry.layout();
+  });
+  // Added since items still sometimes overlap:
+  // document.addEventListener('load', function () {
+  //   alert('ok');
+  //   // msnry.masonry('reload');
+  // }, false);
+  setTimeout(function () {
+    // alert('ok');
+    // console.log(msnry);
+    msnry.layout();
+  }, 3000);
+  // Another just in case:
+  setTimeout(function () {
+    // alert('ok');
+    // console.log(msnry);
+    msnry.layout();
+  }, 6000);
+</script>
 {{ end }}
