@@ -98,6 +98,8 @@ people:
   - name: Katie Mueller
     work_title: Graduate Research Fellow, University of Wisconsin-Madison
     nsvd_title: Community Leader Outreach Coordinator
+    bio: Katie Mueller is a graduate student at the Wisconsin Institute for Discovery, and the cofounder of the Wisconsin Biomedical Technician Rapid Response Team. After organizing volunteers in her local area, she joined forces with the team at NSVD to train new community leaders and extend the network of opportunities for NSVD volunteers. Katie is an NSF Graduate Research Fellow at the University of Wisconsin-Madison, working on genome editing strategies for T cell immunotherapies. She is an advocate for improving mental health conditions in the graduate training environment, and has an avid interest in inclusive pedagogy in higher education. When not in the lab, Katie freelances as a classical vocalist in the Madison area.
+    picture: Katie headshot II KM Edit .jpg
   - name: Ben Aldern
     work_title: CEO and Co Founder, Prestozon
     nsvd_title: Database Manager
@@ -128,16 +130,10 @@ people:
       border collie puppy, Skadi. She briefly considered giving up on her
       scientific persuits to become an etologist.
     picture: Laura G.jpg
-  - name: Alexandra Colón-Rodríguez
+  - name: Alexandra Colón-Rodríguez, PhD
     work_title: Postdoctoral Fellow, UC Davis
-    nsvd_title: Social Media Coordinator
-    bio: Alexandra (Alex) is a Social Media Coordinator at NSVD. She is a
-      postdoctoral fellow at the University of California Davis College of
-      Biological Sciences. Her position involves neuroscience and science
-      communication. Her research work focuses in understanding the effects of
-      single parenting in the amygdala of parents and offspring. Her SciComm
-      work includes developing a SciComm training program for faculty at UC
-      Davis in collaboration with UC San Diego.
+    nsvd_title: Social Media Coordinator & Spanish Translator
+    bio: Alexandra (Alex) Colón-Rodriguez, PhD is a Social Media Coordinator and Spanish Translator at NSVD. She is a postdoctoral fellow at the University of California Davis College of Biological Sciences. Her position involves neuroscience and science communication. Her research work focuses in understanding the effects of single parenting in the amygdala of parents and offspring. Her SciComm work includes developing a SciComm training program for faculty at UC Davis in collaboration with UC San Diego.
     picture: Alex_Colon-Rodriguez.jpg
   - name: Ian Kerman
     work_title: Senior Strategic Technical Specialist, Dassault Systèmes BIOVIA
