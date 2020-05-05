@@ -31,47 +31,6 @@ people:
       growth startups and mathematical programming, and he very much enjoys
       Rhône wines and sailing.
     picture: kevin schallert.jpg
-  - name: Ben Aldern
-    work_title: CEO and Co Founder, Prestozon
-    nsvd_title: Database Manager
-    bio: Ben has worked as a data scientist and engineer at several startups in San
-      Francisco and uses that experience to make sure the Volunteer Scientist
-      Database is reliable and easy to use.
-  - name: Tim Lee
-    work_title: Business Intelligence Consultant, Dell Technologies
-    nsvd_title: Data Architect
-    bio: Tim works to ensure the security and integrity of your data while also
-      providing operational and analytical support for the NSVD volunteer group.
-      For his day job, he leads a team of business analysts and data engineers
-      for Dell Technologies who provide analytical insights to help improve the
-      customer experience and business performance.
-    picture: Tim Lee.jpg
-  - name: Ian Kerman
-    work_title: Senior Strategic Technical Specialist, Dassault Systèmes BIOVIA
-    nsvd_title: Data Engineer
-    bio: Ian is assisting the COVID-19 NSVD group with data pipelining and visualization. Ian has a background in bioinformatics and leads the Dassault Systèmes BIOVIA Innovation Center in San Diego, CA. Ian also volunteers at the Fleet Science Center in San Diego as a Volunteer Scientist and is an avid SCUBA diver.
-    picture: IanKerman_Headshot.JPG
-  - name: Manish Gupta
-    work_title: Principal, DBSentry Corp.
-    nsvd_title: Database & Email Manager
-    picture: manish_covid19sci.jpg
-  - name: Aaron Green
-    work_title: Principal, Iridium Consulting
-    nsvd_title: Strategic Projects
-    bio: Aaron is interfacing the NSVD with partnering organizations and community
-      leaders.
-    picture: AaronGreen.jpg
-  - name: Vincent Law
-    work_title: Senior Research Associate, Department of Neuro-Oncology, Moffitt
-      Cancer Center & Research Intitute
-    nsvd_title: Testing Sites Database Collection Lead
-    bio: Vincent Law joined the NSVD in hopes to lend a hand during medical and
-      health crisis in the community. He is one of the leads assisting the
-      organization on testing site capacities information and understanding
-      their needs. Graduated in Canada, he is currently a researcher in Tampa,
-      Florida, specialized in tumor biology of brain metastasis and
-      leptomeningeal disease.
-    picture: Vincent Law.jpg
   - name: Crystal Lantz, PhD
     work_title: Visiting Faculty Specialist, University of Maryland
     nsvd_title: Government Outreach Coordinator
@@ -89,16 +48,6 @@ people:
       [www.cllantz.com](https://www.cllantz.com) Twitter:
       [@cllantz](https://twitter.com/cllantz)"
     picture: Lantz-headshot.jpg
-  - name: Daniel Munro, PhD
-    work_title: Postdoctoral Fellow, Scripps Research and UC San Diego
-    nsvd_title: Website Manager
-    bio: "Daniel Munro built and manages the covid19sci.org website. He is a
-      Postdoctoral Fellow at Scripps Research and a Postdoctoral Scholar in the
-      UC San Diego Department of Psychiatry. He studies the effects of genetic
-      variation on gene regulation, and how these effects in the brain influence
-      addiction. He received his PhD in Quantitative and Computational Biology
-      from Princeton University. Website: [danmun.ro](https://danmun.ro)"
-    picture: Dan_Munro.jpg
   - name: Shannon Kozlovich, PhD
     work_title: Program Manager, Equality California
     nsvd_title: Communications Coordinator
@@ -117,6 +66,55 @@ people:
       to audio recordings of US Supreme Court Cases while knitting geeky hats.
       Twitter: [@KozlovichS](https://twitter.com/KozlovichS)"
     picture: ShannonKozlovich.JPG
+  - name: Tim Lee
+    work_title: Business Intelligence Consultant, Dell Technologies
+    nsvd_title: Data Architect
+    bio: Tim works to ensure the security and integrity of your data while also
+      providing operational and analytical support for the NSVD volunteer group.
+      For his day job, he leads a team of business analysts and data engineers
+      for Dell Technologies who provide analytical insights to help improve the
+      customer experience and business performance.
+    picture: Tim Lee.jpg
+  - name: Manish Gupta
+    work_title: Principal, DBSentry Corp.
+    nsvd_title: Database & Email Manager
+    picture: manish_covid19sci.jpg
+  - name: Daniel Munro, PhD
+    work_title: Postdoctoral Fellow, Scripps Research and UC San Diego
+    nsvd_title: Website Manager
+    bio: "Daniel Munro built and manages the covid19sci.org website. He is a
+      Postdoctoral Fellow at Scripps Research and a Postdoctoral Scholar in the
+      UC San Diego Department of Psychiatry. He studies the effects of genetic
+      variation on gene regulation, and how these effects in the brain influence
+      addiction. He received his PhD in Quantitative and Computational Biology
+      from Princeton University. Website: [danmun.ro](https://danmun.ro)"
+    picture: Dan_Munro.jpg
+  - name: Aaron Green
+    work_title: Principal, Iridium Consulting
+    nsvd_title: Strategic Projects
+    bio: Aaron is interfacing the NSVD with partnering organizations and community
+      leaders.
+    picture: AaronGreen.jpg
+  - name: Katie Mueller
+    work_title: Graduate Research Fellow, University of Wisconsin-Madison
+    nsvd_title: Community Leader Outreach Coordinator
+  - name: Ben Aldern
+    work_title: CEO and Co Founder, Prestozon
+    nsvd_title: Database Manager
+    bio: Ben has worked as a data scientist and engineer at several startups in San
+      Francisco and uses that experience to make sure the Volunteer Scientist
+      Database is reliable and easy to use.
+  - name: Vincent Law
+    work_title: Senior Research Associate, Department of Neuro-Oncology, Moffitt
+      Cancer Center & Research Intitute
+    nsvd_title: Testing Sites Database Collection Lead
+    bio: Vincent Law joined the NSVD in hopes to lend a hand during medical and
+      health crisis in the community. He is one of the leads assisting the
+      organization on testing site capacities information and understanding
+      their needs. Graduated in Canada, he is currently a researcher in Tampa,
+      Florida, specialized in tumor biology of brain metastasis and
+      leptomeningeal disease.
+    picture: Vincent Law.jpg
   - name: Laüra Gaitan
     work_title: PhD Candidate, University of North Carolina Wilmington
     nsvd_title: Feedback Coordinator
@@ -141,6 +139,15 @@ people:
       work includes developing a SciComm training program for faculty at UC
       Davis in collaboration with UC San Diego.
     picture: Alex_Colon-Rodriguez.jpg
+  - name: Ian Kerman
+    work_title: Senior Strategic Technical Specialist, Dassault Systèmes BIOVIA
+    nsvd_title: Data Engineer
+    bio: Ian is assisting the COVID-19 NSVD group with data pipelining and
+      visualization. Ian has a background in bioinformatics and leads the
+      Dassault Systèmes BIOVIA Innovation Center in San Diego, CA. Ian also
+      volunteers at the Fleet Science Center in San Diego as a Volunteer
+      Scientist and is an avid SCUBA diver.
+    picture: IanKerman_Headshot.JPG
   - name: Shruti Muralidhar
     work_title: Postdoctoral associate, Picower institute, MIT
     nsvd_title: Social Media Coordinator
@@ -156,11 +163,15 @@ people:
   - name: Sally James
     work_title: Journalist/writer/editor
     nsvd_title: Social Media Strategy Consultant
-    bio: "Sally James is a freelance writer in Seattle who writes about biotechnology and research for magazines. She also volunteers in health literacy projects, and writes about the science of science communication."
+    bio: Sally James is a freelance writer in Seattle who writes about biotechnology
+      and research for magazines. She also volunteers in health literacy
+      projects, and writes about the science of science communication.
   - name: Christine Romano, PhD
     nsvd_title: Access Approval Task Force, Community Leader for the Pacific Northwest
-    bio: "LinkedIn: [christinearomano](https://www.linkedin.com/in/christinearomano/), Twitter:
-      [@c_aromano](https://twitter.com/c_aromano), Instagram: [c_aromano](https://www.instagram.com/c_aromano/)"
+    bio: "LinkedIn:
+      [christinearomano](https://www.linkedin.com/in/christinearomano/),
+      Twitter: [@c_aromano](https://twitter.com/c_aromano), Instagram:
+      [c_aromano](https://www.instagram.com/c_aromano/)"
     picture: Christine_Romano.JPG
   - name: Tracy Faustermann
     work_title: Biopharm Technical Specialist, BSc
@@ -172,9 +183,6 @@ people:
       assisted NSVD with setting up an approval panel to help determine which
       entities should be allowed access to our volunteer's private and sensitive
       data.
-  - name: Katie Mueller
-    work_title: Graduate Research Fellow, University of Wisconsin-Madison
-    nsvd_title: Community Leader Outreach Coordinator
   - name: Jonathan Stricker
     work_title: Research Assistant, Brigham and Women's Hospital
     nsvd_title: Community Leader Outreach Coordinator
@@ -193,6 +201,7 @@ people:
   - name: Forrest Allen
     work_title: Data Analyst, Unity Technologies, Live Data Platform
     nsvd_title: Data Analyst
-    bio: Forrest supports and builds NSVD data usability enhancements. He is a SF based data scientist, bluegrass musician and mountain climber.
+    bio: Forrest supports and builds NSVD data usability enhancements. He is a SF
+      based data scientist, bluegrass musician and mountain climber.
     picture: forrest allen.jpg
 ---
