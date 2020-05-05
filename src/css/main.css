@@ -178,13 +178,13 @@ ol, ul {
     }
 }
 
-.map {
+/* .map { */
     /* border: 1px solid #dddddd; */
     /* border-radius: 3px; */
     /* margin-left: -10px; */
     /* margin-right: -10px; */
     /* width: calc(100% + 20px); */
-}
+/* } */
 
 .card-section {
     background-color: #f4f4f4;

@@ -49,6 +49,7 @@ people:
   - name: Ian Kerman
     work_title: Senior Strategic Technical Specialist, Dassault Systèmes BIOVIA
     nsvd_title: Data Engineer
+    bio: Ian is assisting the COVID-19 NSVD group with data pipelining and visualization. Ian has a background in bioinformatics and leads the Dassault Systèmes BIOVIA Innovation Center in San Diego, CA. Ian also volunteers at the Fleet Science Center in San Diego as a Volunteer Scientist and is an avid SCUBA diver.
     picture: IanKerman_Headshot.JPG
   - name: Manish Gupta
     work_title: Principal, DBSentry Corp.
@@ -91,12 +92,12 @@ people:
   - name: Daniel Munro, PhD
     work_title: Postdoctoral Fellow, Scripps Research and UC San Diego
     nsvd_title: Website Manager
-    bio: Daniel Munro built and manages the covid19sci.org website. He is a
+    bio: "Daniel Munro built and manages the covid19sci.org website. He is a
       Postdoctoral Fellow at Scripps Research and a Postdoctoral Scholar in the
       UC San Diego Department of Psychiatry. He studies the effects of genetic
       variation on gene regulation, and how these effects in the brain influence
       addiction. He received his PhD in Quantitative and Computational Biology
-      from Princeton University.
+      from Princeton University. Website: [danmun.ro](https://danmun.ro)"
     picture: Dan_Munro.jpg
   - name: Shannon Kozlovich, PhD
     work_title: Program Manager, Equality California
@@ -155,11 +156,12 @@ people:
   - name: Sally James
     work_title: Journalist/writer/editor
     nsvd_title: Social Media Strategy Consultant
-    bio: "[www.seattlesciencewriter.com](http://www.seattlesciencewriter.com)"
+    bio: "Sally James is a freelance writer in Seattle who writes about biotechnology and research for magazines. She also volunteers in health literacy projects, and writes about the science of science communication."
   - name: Christine Romano, PhD
     nsvd_title: Access Approval Task Force, Community Leader for the Pacific Northwest
-    bio: "[LinkedIn](https://www.linkedin.com/in/christinearomano/), Twitter:
-      [@c_aromano](https://twitter.com/c_aromano)"
+    bio: "LinkedIn: [christinearomano](https://www.linkedin.com/in/christinearomano/), Twitter:
+      [@c_aromano](https://twitter.com/c_aromano), Instagram: [c_aromano](https://www.instagram.com/c_aromano/)"
+    picture: Christine_Romano.JPG
   - name: Tracy Faustermann
     work_title: Biopharm Technical Specialist, BSc
     nsvd_title: State Testing Policy Coordinator / Access Approval Task Force
@@ -188,4 +190,9 @@ people:
       single-cell RNA-seq, metagenomic, ChIP-seq, etc. analyses primarily in R.
       She also has expertise in building web applications through R-Shiny.
     picture: Hirst.jpg
+  - name: Forrest Allen
+    work_title: Data Analyst, Unity Technologies, Live Data Platform
+    nsvd_title: Data Analyst
+    bio: Forrest supports and builds NSVD data usability enhancements. He is a SF based data scientist, bluegrass musician and mountain climber.
+    picture: forrest allen.jpg
 ---
