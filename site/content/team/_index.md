@@ -28,8 +28,8 @@ people:
       interested in expanding net COVID-19 surveillance capacity by deploying
       creative and nontraditional resources like America’s underutilized
       academic science community. Kevin’s professional background is in high
-      growth startups and mathematic programming, and he very much enjoys Rhône
-      wines and sailing.
+      growth startups and mathematical programming, and he very much enjoys
+      Rhône wines and sailing.
     picture: kevin schallert.jpg
   - name: Ben Aldern
     work_title: CEO and Co Founder, Prestozon
