@@ -204,4 +204,9 @@ people:
     bio: Forrest supports and builds NSVD data usability enhancements. He is a SF
       based data scientist, bluegrass musician and mountain climber.
     picture: forrest allen.jpg
+  - name: Gajen Sunthara
+    work_title: Former Presidential Innovation Fellow, PIF.gov
+    nsvd_title: Lokalus Lead & Overall Technology Strategy
+    bio: Former White House Presidential Innovation Fellow and member of the USDS. 1upHealth founder and Harvard Medical School Advisor.
+    picture: Gajen_Sunthara_Head_Shot_Small.jpg
 ---
