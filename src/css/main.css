@@ -251,3 +251,33 @@ ol, ul {
     width: 100%;
     height: auto;
 }
+
+/* Footer */
+
+hr {
+    color: #ccc;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.email-button {
+    /* display: inline-block; */
+    background-color: #aaa;
+    color: white;
+    border-radius: 3px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 1px;
+    vertical-align: top;
+    margin-top: 1px;
+    margin-left: 15px;
+    font-size: 13px;
+    line-height: 22px;
+    height: 22px;
+}
+
+#twitter-widget-1 {
+    vertical-align: top;
+    margin-top: 0px;
+}
