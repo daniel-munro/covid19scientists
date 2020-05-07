@@ -33,7 +33,7 @@ people:
     picture: kevin schallert.jpg
   - name: Crystal Lantz, PhD
     work_title: Visiting Faculty Specialist, University of Maryland
-    nsvd_title: Government Outreach Coordinator
+    nsvd_title: "Government Outreach Director "
     bio: "Crystal L. Lantz, PhD is the Government Outreach Coordinator and serves on
       the Access Approval Task Force. She is a Visiting Faculty Specialist at
       the University of Maryland, College Park in the Department of Biology. She
@@ -50,7 +50,7 @@ people:
     picture: Lantz-headshot.jpg
   - name: Shannon Kozlovich, PhD
     work_title: Program Manager, Equality California
-    nsvd_title: Communications Coordinator
+    nsvd_title: Communications Manager
     bio: "Shannon is a tobacco research scientist and tobacco control advocate. As
       an activist with an earnest desire to save the world she volunteered with
       the National Scientist Volunteer Database to amplify the message that
@@ -97,8 +97,18 @@ people:
     picture: AaronGreen.jpg
   - name: Katie Mueller
     work_title: Graduate Research Fellow, University of Wisconsin-Madison
-    nsvd_title: Community Leader Outreach Coordinator
-    bio: Katie Mueller is a graduate student at the Wisconsin Institute for Discovery, and the cofounder of the Wisconsin Biomedical Technician Rapid Response Team. After organizing volunteers in her local area, she joined forces with the team at NSVD to train new community leaders and extend the network of opportunities for NSVD volunteers. Katie is an NSF Graduate Research Fellow at the University of Wisconsin-Madison, working on genome editing strategies for T cell immunotherapies. She is an advocate for improving mental health conditions in the graduate training environment, and has an avid interest in inclusive pedagogy in higher education. When not in the lab, Katie freelances as a classical vocalist in the Madison area.
+    nsvd_title: Community Leader Outreach Manager
+    bio: Katie Mueller is a graduate student at the Wisconsin Institute for
+      Discovery, and the cofounder of the Wisconsin Biomedical Technician Rapid
+      Response Team. After organizing volunteers in her local area, she joined
+      forces with the team at NSVD to train new community leaders and extend the
+      network of opportunities for NSVD volunteers. Katie is an NSF Graduate
+      Research Fellow at the University of Wisconsin-Madison, working on genome
+      editing strategies for T cell immunotherapies. She is an advocate for
+      improving mental health conditions in the graduate training environment,
+      and has an avid interest in inclusive pedagogy in higher education. When
+      not in the lab, Katie freelances as a classical vocalist in the Madison
+      area.
     picture: Katie headshot II KM Edit .jpg
   - name: Ben Aldern
     work_title: CEO and Co Founder, Prestozon
@@ -119,7 +129,7 @@ people:
     picture: Vincent Law.jpg
   - name: Laüra Gaitan
     work_title: PhD Candidate, University of North Carolina Wilmington
-    nsvd_title: Feedback Coordinator
+    nsvd_title: Feedback Lead
     bio: Laüra coordinates communication between volunteers and members of the NSVD.
       She is pursuing her docotoral degree in marine biology, focused on the
       ecology of the sponge holobiont in the Caribbean. She has limited SciComm
@@ -132,8 +142,14 @@ people:
     picture: Laura G.jpg
   - name: Alexandra Colón-Rodríguez, PhD
     work_title: Postdoctoral Fellow, UC Davis
-    nsvd_title: Social Media Coordinator & Spanish Translator
-    bio: Alexandra (Alex) Colón-Rodriguez, PhD is a Social Media Coordinator and Spanish Translator at NSVD. She is a postdoctoral fellow at the University of California Davis College of Biological Sciences. Her position involves neuroscience and science communication. Her research work focuses in understanding the effects of single parenting in the amygdala of parents and offspring. Her SciComm work includes developing a SciComm training program for faculty at UC Davis in collaboration with UC San Diego.
+    nsvd_title: Social Media Lead & Spanish Translator
+    bio: Alexandra (Alex) Colón-Rodriguez, PhD is a Social Media Coordinator and
+      Spanish Translator at NSVD. She is a postdoctoral fellow at the University
+      of California Davis College of Biological Sciences. Her position involves
+      neuroscience and science communication. Her research work focuses in
+      understanding the effects of single parenting in the amygdala of parents
+      and offspring. Her SciComm work includes developing a SciComm training
+      program for faculty at UC Davis in collaboration with UC San Diego.
     picture: Alex_Colon-Rodriguez.jpg
   - name: Ian Kerman
     work_title: Senior Strategic Technical Specialist, Dassault Systèmes BIOVIA
@@ -146,7 +162,7 @@ people:
     picture: IanKerman_Headshot.JPG
   - name: Shruti Muralidhar
     work_title: Postdoctoral associate, Picower institute, MIT
-    nsvd_title: Social Media Coordinator
+    nsvd_title: Social Media Lead
     bio: Shruti is a Social Media Coordinator at the NSVD. Currently, she works at
       the Picower Institute at MIT on understanding the role of inhibitory
       interneurons in learning and memory. She is also the contributing editor
@@ -181,7 +197,7 @@ people:
       data.
   - name: Jonathan Stricker
     work_title: Research Assistant, Brigham and Women's Hospital
-    nsvd_title: Community Leader Outreach Coordinator
+    nsvd_title: Community Leader Outreach Manager
   - name: Marissa Hirst, PhD
     work_title: Senior Bioinformatician
     nsvd_title: Community leader for the Pacific Northwest
@@ -203,6 +219,7 @@ people:
   - name: Gajen Sunthara
     work_title: Former Presidential Innovation Fellow, PIF.gov
     nsvd_title: Lokalus Lead & Overall Technology Strategy
-    bio: Former White House Presidential Innovation Fellow and member of the USDS. 1upHealth founder and Harvard Medical School Advisor.
+    bio: Former White House Presidential Innovation Fellow and member of the USDS.
+      1upHealth founder and Harvard Medical School Advisor.
     picture: Gajen_Sunthara_Head_Shot_Small.jpg
 ---
