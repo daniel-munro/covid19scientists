@@ -50,7 +50,7 @@ people:
     picture: Lantz-headshot.jpg
   - name: Shannon Kozlovich, PhD
     work_title: Program Manager, Equality California
-    nsvd_title: Communications Manager
+    nsvd_title: Communications Director
     bio: "Shannon is a tobacco research scientist and tobacco control advocate. As
       an activist with an earnest desire to save the world she volunteered with
       the National Scientist Volunteer Database to amplify the message that
