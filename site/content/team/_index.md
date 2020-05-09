@@ -66,19 +66,6 @@ people:
       to audio recordings of US Supreme Court Cases while knitting geeky hats.
       Twitter: [@KozlovichS](https://twitter.com/KozlovichS)"
     picture: ShannonKozlovich.JPG
-  - name: Tim Lee
-    work_title: Business Intelligence Consultant, Dell Technologies
-    nsvd_title: Data Architect
-    bio: Tim works to ensure the security and integrity of your data while also
-      providing operational and analytical support for the NSVD volunteer group.
-      For his day job, he leads a team of business analysts and data engineers
-      for Dell Technologies who provide analytical insights to help improve the
-      customer experience and business performance.
-    picture: Tim Lee.jpg
-  - name: Manish Gupta
-    work_title: Principal, DBSentry Corp.
-    nsvd_title: Database & Email Manager
-    picture: manish_covid19sci.jpg
   - name: Daniel Munro, PhD
     work_title: Postdoctoral Fellow, Scripps Research and UC San Diego
     nsvd_title: Website Manager
@@ -89,12 +76,6 @@ people:
       addiction. He received his PhD in Quantitative and Computational Biology
       from Princeton University. Website: [danmun.ro](https://danmun.ro)"
     picture: Dan_Munro.jpg
-  - name: Aaron Green
-    work_title: Principal, Iridium Consulting
-    nsvd_title: Strategic Projects
-    bio: Aaron is interfacing the NSVD with partnering organizations and community
-      leaders.
-    picture: AaronGreen.jpg
   - name: Katie Mueller
     work_title: Graduate Research Fellow, University of Wisconsin-Madison
     nsvd_title: Community Leader Outreach Manager
@@ -110,6 +91,32 @@ people:
       not in the lab, Katie freelances as a classical vocalist in the Madison
       area.
     picture: Katie headshot II KM Edit .jpg
+  - name: Christine Romano, PhD
+    nsvd_title: Access Approval Task Force, Community Leader for the Pacific Northwest
+    bio: "LinkedIn:
+      [christinearomano](https://www.linkedin.com/in/christinearomano/),
+      Twitter: [@c_aromano](https://twitter.com/c_aromano), Instagram:
+      [c_aromano](https://www.instagram.com/c_aromano/)"
+    picture: Christine_Romano.JPG
+  - name: Tim Lee
+    work_title: Business Intelligence Consultant, Dell Technologies
+    nsvd_title: Data Architect
+    bio: Tim works to ensure the security and integrity of your data while also
+      providing operational and analytical support for the NSVD volunteer group.
+      For his day job, he leads a team of business analysts and data engineers
+      for Dell Technologies who provide analytical insights to help improve the
+      customer experience and business performance.
+    picture: Tim Lee.jpg
+  - name: Manish Gupta
+    work_title: Principal, DBSentry Corp.
+    nsvd_title: Database & Email Manager
+    picture: manish_covid19sci.jpg
+  - name: Aaron Green
+    work_title: Principal, Iridium Consulting
+    nsvd_title: Strategic Projects
+    bio: Aaron is interfacing the NSVD with partnering organizations and community
+      leaders.
+    picture: AaronGreen.jpg
   - name: Ben Aldern
     work_title: CEO and Co Founder, Prestozon
     nsvd_title: Database Manager
@@ -178,13 +185,6 @@ people:
     bio: Sally James is a freelance writer in Seattle who writes about biotechnology
       and research for magazines. She also volunteers in health literacy
       projects, and writes about the science of science communication.
-  - name: Christine Romano, PhD
-    nsvd_title: Access Approval Task Force, Community Leader for the Pacific Northwest
-    bio: "LinkedIn:
-      [christinearomano](https://www.linkedin.com/in/christinearomano/),
-      Twitter: [@c_aromano](https://twitter.com/c_aromano), Instagram:
-      [c_aromano](https://www.instagram.com/c_aromano/)"
-    picture: Christine_Romano.JPG
   - name: Tracy Faustermann
     work_title: Biopharm Technical Specialist, BSc
     nsvd_title: State Testing Policy Coordinator / Access Approval Task Force
