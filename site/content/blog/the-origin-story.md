@@ -21,4 +21,4 @@ Learn more about us, [click here](https://covid19sci.org/)
 
 Follow us on [Twitter](https://twitter.com/COVID19_NSVD)
 
-*About the author: Dr. Kozlovich holds a PhD in Pharmaceutical Sciences and works as a tobacco control advocate at an LGBT nonprofit in Los Angeles, CA. Her earnest desire to save the world had led to many interesting volunteer efforts that she wholeheartedly supports, including this one.*
+*About the author: [Dr. Kozlovich](https://twitter.com/KozlovichS) holds a PhD in Pharmaceutical Sciences and works as a tobacco control advocate at an LGBT nonprofit in Los Angeles, CA. Her earnest desire to save the world had led to many interesting volunteer efforts that she wholeheartedly supports, including this one.*

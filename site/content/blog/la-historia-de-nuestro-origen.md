@@ -23,4 +23,4 @@ Aprenda más sobre nosotros [aquí](https://covid19sci.org/)
  
 Síguenos en [Twitter](https://twitter.com/COVID19_NSVD)
  
-*Sobre la autora: la Dra. Kozlovich tiene un doctorado en Ciencias Farmacéuticas y trabaja como defensora de control del tabaco en una organización sin fines de lucro LGBT en Los Ángeles, CA. Su deseo de salvar el mundo la ha llevado a formar parte de muchos esfuerzos voluntarios interesantes que ella apoya de todo corazón, incluyendo este.*
+*Sobre la autora: la [Dra. Kozlovich](https://twitter.com/KozlovichS) tiene un doctorado en Ciencias Farmacéuticas y trabaja como defensora de control del tabaco en una organización sin fines de lucro LGBT en Los Ángeles, CA. Su deseo de salvar el mundo la ha llevado a formar parte de muchos esfuerzos voluntarios interesantes que ella apoya de todo corazón, incluyendo este.*
