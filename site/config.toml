@@ -7,3 +7,7 @@ title = "COVID-19 National Scientist Volunteer Database"
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+
+# Allow HTML tags in markdown content:
+[markup.goldmark.renderer]
+unsafe= true

@@ -3,12 +3,18 @@
   {{ partial "head" . }}
   <body class="sans-serif" style="min-height: 100vh">
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+    {{ block "header" . }}
+      {{ if ne .Section "blog" }}
+        {{ partial "nav" . }}
+      {{ end }}
+    {{end}}
 
     {{ block "main" . }}{{ end }}
 
-    {{ if ne .Params.title "Contact Us"}}
-    {{ partial "footer" . }}
+    {{ if ne .Params.title "Contact Us" }}
+      {{ if ne .Section "blog" }}
+        {{ partial "footer" . }}
+      {{ end }}
     {{ end }}
 
     {{ $script := .Site.Data.webpack.main }}

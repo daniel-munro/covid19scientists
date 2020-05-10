@@ -246,13 +246,17 @@ ol, ul {
 }
 
 .team-card img {
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
     border-bottom-left-radius: 0;
     border-bottom-right-radius: 0;
     width: 100%;
     height: auto;
 }
 
+/**********/
 /* Footer */
+/**********/
 
 hr {
     color: #ccc;
@@ -280,4 +284,65 @@ hr {
 #twitter-widget-1 {
     vertical-align: top;
     margin-top: 0px;
+}
+
+/********/
+/* Blog */
+/********/
+
+.blog {
+    font-family: poppins;
+    font-size: 18px;
+    /* background-color: #f4f4f4; */
+}
+
+.blog-nav {
+    color: #555;
+    font-size: 24px;
+    margin-right: 20px;
+}
+
+.blog-content {
+    max-width: 900px;
+}
+
+.blog-logo {
+    width: 30px;
+}
+@media (--breakpoint-medium) {
+    .blog-logo {
+        width: 35px;
+   }
+}
+
+.blog-card {
+    width: 400px;
+    max-width: 100%;
+    /* background-color: #f4f4f4; */
+    border-radius: 0.5rem;
+    /* margin-bottom: 20px; */
+    box-shadow: 0 1px 5px #bbb;    
+    border-top: 3px solid var(--primary);
+}
+
+.blog-card img {
+    border-radius: 0;
+    width: 100%;
+    /* height: 300px; */
+    /* object-fit: cover; */
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+nav a, .card a {
+    color: inherit;
+}
+nav a:hover, .card a:hover {
+    text-decoration: none;
 }

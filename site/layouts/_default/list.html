@@ -1,16 +1,41 @@
 {{ define "main" }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+<div class="blog ph2"><a href="/" class="blog-nav">Home</a></div>
+<div class="blog mw7 center">
+  <h1 class="tc mb0">Diary of a Database</h1>
+  <!-- <h3 class="tc normal mt0">
+    <img class="blog-logo" src="/img/logo_black.png">
+    Official Blog of the National Scientist Volunteer Database
+    <img class="blog-logo" src="/img/logo_black.png">
+  </h3> -->
+  <h3 class="flex items-center justify-center tc normal mt0">
+    <img class="blog-logo mh1 mr2-ns" src="/img/logo_black.png">
+    Official Blog of the National Scientist Volunteer Database
+    <img class="blog-logo mh1 ml2-ns" src="/img/logo_black.png">
+  </h3>
 
-<div class="mw7 center">
-  <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
-            {{ .Render "li"}}
-          </div>
-      {{ end }}
+  <ul class="mhn1-ns pa3">
+    <!-- { range (.Paginator 4).Pages.ByPublishDate.Reverse } -->
+    {{ range .Site.Data.posts }}
+    <div class="blog-card">
+      <!-- <a href="{{ .RelPermalink }}" class="no-underline mb2 w-100"> -->
+      <div class="pv2 ph3">
+        <h2 class="b mb2">{{ .title }}</h2>
+        <!-- </div> -->
+        <img src="/img/{{ .image }}">
+        <!-- <div class="pv2 ph3"> -->
+        <!-- <p class="grey-3 lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
+        <p class="mb1">{{ .description }}</p>
+        <p class="mb0">
+          <a href="/blog/{{ .url_en }}" class="b mr2">English</a>
+          <a href="/blog/{{ .url_es }}" class="b">Español</a>
+        </p>
+      </div>
+      <!-- </a> -->
+    </div>
+    {{ end }}
   </ul>
-  {{ partial "pagination" . }}
+  <!-- { partial "pagination" . } -->
 </div>
 
 {{end}}
