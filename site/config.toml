@@ -8,6 +8,9 @@ title = "COVID-19 National Scientist Volunteer Database"
 # https://gohugo.io/getting-started/configuration/#toml-configuration
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+# Make /blog title "Blog" instead of "Blogs":
+pluralizeListTitles = false
+
 # Allow HTML tags in markdown content:
 [markup.goldmark.renderer]
-unsafe= true
+unsafe = true
