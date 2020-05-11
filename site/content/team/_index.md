@@ -78,7 +78,7 @@ people:
     picture: Dan_Munro.jpg
   - name: Katie Mueller
     work_title: Graduate Research Fellow, University of Wisconsin-Madison
-    nsvd_title: Community Leader Outreach Manager
+    nsvd_title: Community Leader Outreach Coordinator
     bio: Katie Mueller is a graduate student at the Wisconsin Institute for
       Discovery, and the cofounder of the Wisconsin Biomedical Technician Rapid
       Response Team. After organizing volunteers in her local area, she joined
@@ -197,7 +197,9 @@ people:
       data.
   - name: Jonathan Stricker
     work_title: Research Assistant, Brigham and Women's Hospital
-    nsvd_title: Community Leader Outreach Manager
+    nsvd_title: Community Leader Outreach Coordinator
+    bio: Jonathan Stricker is a research technician in the neurology department at Brigham and Women's Hospital in Boston. At the NSVD, he helps coordinate links between local organizers, figure out solutions in local efforts, and connect volunteers to resources. He is passionate about public health and bioethics, and is considering pursuing graduate degrees in both.
+    picture: JStricker.JPG
   - name: Marissa Hirst, PhD
     work_title: Senior Bioinformatician
     nsvd_title: Community leader for the Pacific Northwest

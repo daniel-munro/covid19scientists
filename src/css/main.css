@@ -186,6 +186,10 @@ ol, ul {
     /* width: calc(100% + 20px); */
 /* } */
 
+/*************/
+/* Home page */
+/*************/
+
 .card-section {
     background-color: #f4f4f4;
 }
@@ -225,6 +229,22 @@ ol, ul {
     font-size: 24px;
     font-weight: bold;
 }
+
+.partners {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.partner {
+    flex: 0 0 300px;
+    margin: 20px;
+}
+
+/*************/
+/* Team page */
+/*************/
 
 #team {
     background-color: #f4f4f4;
