@@ -24,6 +24,8 @@ title: Resources
 * [Health Resources and Services Administration](https://www.hrsa.gov/opa/COVID-19-resources)
 * [Johns Hopkins COVID stats page](https://coronavirus.jhu.edu/map.html)
 * End Coronavirus [FAQ](https://www.endcoronavirus.org/faq) and [guidelines](https://www.endcoronavirus.org/guidelines)
+* [Institute of Health Metrics Evaluation](http://www.healthdata.org/covid) - Predictions based on death and hospital resource use
+* [COVID-19 Hospital Impact Model for Epidemics (CHIME)](https://oto.med.upenn.edu/2020/03/31/covid-19-hospital-impact-model-for-epidemics-chime/) - Modeling to help with hospital capacity planning
 
 # Additional Resources
 
