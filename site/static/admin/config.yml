@@ -33,9 +33,9 @@ collections: # A list of collections the CMS should be able to edit
         name: "groups"
         fields:
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/who-has-access/_index.md"
-        label: "Who Has Access"
-        name: "who-has-access"
+      - file: "site/content/access-and-opportunities/_index.md"
+        label: "Access and Opportunities"
+        name: "access-and-opportunities"
         fields:
           - {label: Body, name: body, widget: markdown}
       - file: "site/content/team/_index.md"
