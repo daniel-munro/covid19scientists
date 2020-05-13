@@ -46,7 +46,7 @@ Contacts: Katharine_225@yahoo.com, mescobar2798@gmail.com, ashley.benitez1@gmail
 
 Location: Houston, TX and Slack (htx-covid.slack.com)\
 Organizers: **Emily Reiser** & **Will Clifton** (Enventure)\
-Contacts: Tracy.faustermann@gmail.com (Tracy Faustermann)\
+Contacts: Tracy.faustermann@gmail.com (Tracy Faustermann)
 
 #### UC Irvine COVID-19 Volunteers
 
@@ -79,8 +79,13 @@ Location: San Diego, Grassroots movement of researchers from University of Calif
 Organizers: **Gene Yeo, PhD MBA**. Professor of Cellular and Molecular Medicine, UCSD & **Stefan Aigner, PhD**, Project Scientist Yeo Lab.\
 Volunteer sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfo18hylllsgomF5tt8rrr2mbVFRGpqc2AwCJZ8q8lmBdoW4w/viewform)
 
+#### San Diego COVID-19 Response Volunteers
+
+Organizers: **Christina Van, PhD**, Scientist at biotech, & **Amy Strasner, PhD**, Scientist at biotech\
+Contacts: christina_van@att.net and astras10@gmail.com
+
 #### COVID19 Resources Canada
 
 Location: Canada\
-Organizers: **Guillaume Bourque, PhD**,Professor, McGill University & **Tara Moriarty, PhD**,Associate Professor, University of Toronto\
+Organizers: **Guillaume Bourque, PhD**, Professor, McGill University & **Tara Moriarty, PhD**, Associate Professor, University of Toronto\
 Contacts: <https://covid19resources.ca/>

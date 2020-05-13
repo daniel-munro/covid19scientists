@@ -371,3 +371,14 @@ nav a, .card a {
 nav a:hover, .card a:hover {
     text-decoration: none;
 }
+
+/*********/
+/* Other */
+/*********/
+
+.grey-section {
+    background-color: #f4f4f4;
+    margin-top: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
