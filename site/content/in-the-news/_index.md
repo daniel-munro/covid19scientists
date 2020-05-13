@@ -3,7 +3,7 @@ title: In the News
 ---
 # In the News
 
-{{< rawhtml >}}<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k2PtedjVYBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>{{< /rawhtml >}}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/k2PtedjVYBQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Associated Press. ["Calling all scientists: Experts volunteer for virus fight."](https://apnews.com/8e9e0a20377f0547629e226f0f73f909) (03.30.20)
 
