@@ -190,6 +190,19 @@ ol, ul {
 /* Home page */
 /*************/
 
+.home-page-button {
+    text-decoration: none !important;
+}
+
+.home-page-button div {
+    background-color: #666666;
+    color: white;
+    border-radius: 0.2rem;
+    box-shadow: 0 2px 8px #bbb;
+    width: 300px;
+    max-width: 100%;
+}
+
 .card-section {
     background-color: #f4f4f4;
 }
