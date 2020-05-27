@@ -77,5 +77,6 @@ Volunteer in your local area! Click on the links below for additional details ab
 
 * Curative Inc (Los Angeles, CA)
 * SpaceX (Hawthorne, CA)
+* MOgene (St. Louis, MO)
 
 </section>
