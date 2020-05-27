@@ -44,8 +44,8 @@ people:
       brain plasticity and normal vision. She recently served as an Early Career
       Policy Ambassador for the Society for Neuroscience and has dedicated much
       of her time to science outreach in her community; increasing scientific
-      literacy and encouraging a future generation of scientists. Website:
-      [www.cllantz.com](https://www.cllantz.com) Twitter:
+      literacy and encouraging a future generation of scientists. <br>Website:
+      [www.cllantz.com](https://www.cllantz.com) <br>Twitter:
       [@cllantz](https://twitter.com/cllantz)"
     picture: Lantz-headshot.jpg
   - name: Shannon Kozlovich, PhD
@@ -64,7 +64,7 @@ people:
       increases the health impact of tobacco use, and the metabolism of the most
       potent cancer-causing compound in tobacco. In her free time, she listens
       to audio recordings of US Supreme Court Cases while knitting geeky hats.
-      Twitter: [@KozlovichS](https://twitter.com/KozlovichS)"
+      <br>Twitter: [@KozlovichS](https://twitter.com/KozlovichS)"
     picture: ShannonKozlovich.JPG
   - name: Daniel Munro, PhD
     work_title: Postdoctoral Fellow, Scripps Research and UC San Diego
@@ -74,7 +74,7 @@ people:
       UC San Diego Department of Psychiatry. He studies the effects of genetic
       variation on gene regulation, and how these effects in the brain influence
       addiction. He received his PhD in Quantitative and Computational Biology
-      from Princeton University. Website: [danmun.ro](https://danmun.ro)"
+      from Princeton University. <br>Website: [danmun.ro](https://danmun.ro)"
     picture: Dan_Munro.jpg
   - name: Katie Mueller
     work_title: Graduate Research Fellow, University of Wisconsin-Madison
@@ -94,8 +94,8 @@ people:
   - name: Christine Romano, PhD
     nsvd_title: Access Approval Task Force, Community Leader for the Pacific Northwest
     bio: "LinkedIn:
-      [christinearomano](https://www.linkedin.com/in/christinearomano/),
-      Twitter: [@c_aromano](https://twitter.com/c_aromano), Instagram:
+      [christinearomano](https://www.linkedin.com/in/christinearomano/) 
+      <br>Twitter: [@c_aromano](https://twitter.com/c_aromano) <br>Instagram:
       [c_aromano](https://www.instagram.com/c_aromano/)"
     picture: Christine_Romano.JPG
   - name: Tim Lee
@@ -224,4 +224,102 @@ people:
     bio: Former White House Presidential Innovation Fellow and member of the USDS.
       1upHealth founder and Harvard Medical School Advisor.
     picture: Gajen_Sunthara_Head_Shot_Small.jpg
+  - name: Jeffrey M. Shaver
+    work_title: Associate Professor, University of Arkansas Fort Smith
+    nsvd_title: Arkansas State Coordinator
+    bio: I am currently an Associate Professor in Biology and Biology Education at the University of Arkansas Fort Smith (UAFS). In 2001 and 2008, I earned my Bachelors of Science in Biology and Biology Education from Purdue University (West Lafayette, IN), and my PhD in Biology from the University of Washington (Seattle, WA), respectively. In addition to my higher education teaching and research experience, I have also been a certified science teacher in Indiana and Washington, and I am currently a certified science teacher and principal in Texas. Prior to joining the faculty at UAFS in 2017, from 2014-2017, I was a Program Coordinator with the Charles A. Dana Center at the University of Texas at Austin. At UAFS, my research currently focuses on monitoring changes in microbiomes and mycobiomes with tall grass prairie restoration, and the effects of aphid infestation and chloroplast membrane saturation on the abundance and structure of chloroplast DNA.
+  - name: Payal D. Maharaj
+    work_title: Former Microbiologist, CDC
+    nsvd_title: California State Coordinator
+    bio: I am a virologist by training. I was formerly a Microbiologist/Postdoctoral Fellow at the Centers for Disease Control and Prevention at the Division for Vectorborne Disease. My broad research interests include investigating host-virus interactions modulating differential  host competences of arboviruses. I recently served as the Young U.S. Ambassador to Colorado for the American Society of Microbiology. I am also pretty passionate about science outreach in underrepresented communities. Seeing the global impact of COVID-19 has motivated me to try to use all my scientific skills towards combating this virus in any way. This is what we all trained for.
+  - name: Ian Hudson
+    work_title: Associate Scientist, Provivi, Inc.
+    nsvd_title: California State Coordinator
+    bio: I've worked in agriculture and entomology for 15 years in both the public and private sector. In my previous position, at the County of San Diego, I was my department's union steward with SEIU 221. I've recently moved to Los Angeles but continue to seek opportunities to organize in support of people and the planet.
+    picture: ianhudsonphoto - Ian Hudson.jpg
+  - name: Elena Vasileva
+    work_title: Postdoctoral Researcher, Children's Hospital Los Angeles, USC
+    nsvd_title: California State Coordinator
+    bio: "I am a Postdoctoral Researcher at Children’s Hospital of Los Angeles, USC. I am interested in studying the molecular mechanisms of cancer development and progression. I developed an inducible zebrafish model of human EWS-FLI-driven Ewing Sarcoma to better define the disease biology in a developmental context and to identify new targets for therapy. COVID-19 is changing the world around us and I would like to be part of the movement to fight COVID-19. <br>Twitter: [@evasilevasci](https://twitter.com/evasilevasci)"
+  - name: Claire Zhang
+    work_title: Research Assistant, University of California San Diego
+    nsvd_title: California State Coordinator
+    bio: Claire is pursuing a degree in Bioengineering at UC San Diego, while working on single-cell transcriptomic approaches to studying cardiovascular inflammation. She joined the NSVD as a State Coordinator to bridge the gap between the plethora of available skilled scientists and organizations who could benefit from their expertise during this pandemic.
+    picture: Claire_Zhang - Claire Zhang.JPG
+  - name: Dhanya Nambiar
+    work_title: Postdoctoral Fellow, Stanford University
+    nsvd_title: California State Coordinator
+    bio: I am postdoctoral fellow in the Dept of Radiation Oncology at Stanford University. I have always been motivated to help or serve the broader community beyond the research programs that I am part of. I am passionate about public health and would love to contribute to COVID19 surveillance and spread awareness in this time of crisis.
+    picture: Dhanya Kalathil Nambiar.jpg
+  - name: Mao Fukada
+    work_title: Student, Soka University of America
+    nsvd_title: New York State Coordinator
+    bio: I am a student at Soka University of America concentrating in Life Sciences. I am passionate in public health and in becoming a surgeon in the future. During such an unprecedented time, I was motivated to become a State Coordinator to help and give my assistance in any way to those in need of it.
+    picture: Mao Fukada.jpeg
+  - name: Rakin Nasar
+    work_title: Staff Research Associate, UCSF
+    nsvd_title: California State Coordinator
+    bio: Rakin is a recent Master's graduate who studied Anatomy & Neurobiology at Boston University School of Medicine. He is currently working at the Memory and Aging Center at UCSF as a Staff Research Associate. His Master's research looked at Interneurons in mice and monkeys, and his current research is about cell count quantification in post-mortem tissue of patients with Alzheimer's Disease.
+    picture: rakin nasar.jpg
+  - name: Saman Namazian
+    work_title: Undergraduate Student, Tufts University
+    nsvd_title: Massachusetts State Coordinator
+    bio: Sam is a first year undergraduate student majoring in biopsychology at Tufts University. He is also a researcher focusing on carcinogenic breast development, with an emphasis on  cancer stem cells. Sam joined the NSVD with the hopes of facilitating the connection between volunteers in his community with nearby organizations in need of assistance, ensuring that the talents of community members are fully utilized in combating COVID-19.
+    picture: Sam N.jpeg
+  - name: Sanam Shafaat Talab
+    work_title: Postdoctoral Researcher, Boston Children's Hospital
+    nsvd_title: Massachusetts State Coordinator
+    bio: I am a Postdoctoral research fellow at Boston Children's Hospital. I study cardiac diseases using stem cells. We are at unusual time going through pandemic, and as a scientist I have obtained various skills over the years which I believe I can contribute by assisting those on the front lines in whatever ways I can.
+    picture: Shafaat Talab Sanam 24Hr - sanam shafaat talab.jpg
+  - name: Nadia Raytselis
+    work_title: Postbac Research Fellow, NIH
+    nsvd_title: Maryland/DC State Coordinator
+    bio: Nadia Raytselis is a postbaccalaureate research fellow at the National Institute of Allergy and Infectious Diseases. She is currently studying malaria, specifically parasite/host interactions and vector immunity. After her fellowship at NIH ends, she is interested in pursuing a PhD in the field of infectious disease. She joined the NSVD team because she is passionate about working on public health issues, and saw many scientists wanting to get involved with COVID-19 efforts, but not knowing what organizations were in need of volunteers. She hopes that NSVD will be able to help mitigate this issue, making strides toward improving COVID-19 testing capacity and other public health needs.
+    picture: nadia_raytselis - Nadia Raytselis.jpg
+  - name: Michael Ruiz
+    work_title: Engineer, Takeda Pharmaceuticals
+    nsvd_title: Massachusetts State Coordinator
+    bio: Innovative and entrepreneurial engineer with 10 years of administrative and technical experience in leading engineering projects, improving products and services, and providing operational support within highly regulated industries. I became motivated to become a State Coordinator almost immediately following the lockdown. I have been a local volunteer community organizer for various social/cultural issues and have now turned my focus on COVID-19 relief efforts.
+    picture: Michael Ruiz.jpg
+  - name: Matthew Tegtmeyer
+    work_title: Graduate student, Broad Institute
+    nsvd_title: New England Coordinator
+    bio: I am a molecular genetics graduate student working between the Broad Institute and King's College London. Additionally, I serve a consulting role within the private biotech industry.<br>I have a background in political science and health administration and recognize the increasing importance of mobilizing basic science researchers to assist in large scale efforts to support public health measures.
+    picture: Matt Tegtmeyer - Matthew Tegtmeyer.JPG
+  - name: Josh N Vo
+    work_title: Graduate student, University of Michigan Ann Arbor
+    nsvd_title: Michigan State Coordinator
+  - name: Sahithi Pamarthy
+    work_title: Research Associate, Rutgers University
+    nsvd_title: New Jersey State Coordinator
+    bio: Sahithi is a research scientist with experience in academia and pharma start-up. She has a PhD in Microbiology and Immunology and post-doctoral fellowship in translational cancer research. Through local community outreach, she is hoping to communicate with and match local organizations and volunteers to expedite COVID-19 research efforts.
+    picture: pamarthy,sahithi-4987 - sahithi pamarthy.jpg
+  - name: Dennis Deluca
+    work_title: Associate Professor, Ohio Northern University
+    nsvd_title: Ohio State Coordinator
+  - name: Inimary Toby, PhD
+    work_title: Assistant Professor, University of Dallas
+    nsvd_title: Texas State Coordinator
+    bio: "Dr Inimary Toby holds a doctorate in Biomedical Sciences from The Ohio State University, College of Medicine. Having worked in industry, federal government, and academic labs, she has expertise in Systems Biology, Bioinformatics and Genomics. Dr Toby's research program at the University of Dallas is focused on the use of wet bench and computational methods to assess sequence data as a means to better understand the cellular/molecular consequences of lung diseases. She enjoys mentoring research students and promoting Bioinformatics education. The ability to bridge the gap between community leaders, key decision makers, and scientific experts is her primary motivation for joining the efforts as an NSVD state coordinator for the state of Texas.  [Faculty bio](https://udallas.edu/constantin/academics/programs/biology/faculty_bios/toby-inimary.php)<br> \"Dovresti sempre mostrare amore a tutti\""
+    picture: Inimary_Toby_UDallas - Inimary Toby.jpg
+  - name: Raad Khan
+    work_title: Graduate Student, The University of Oxford/Howard University
+    nsvd_title: Virginia/DC State Coordinator
+    bio: Hi everyone! My name is Raad and I am a cancer researcher and drug discovery and development scientist at Howard University. My background is in biology, nanotechnology, and pharmaceutical science. I was motivated to become a state coordinator because I wanted to ensure that scientists could generate a strong response to the current pandemic.
+    picture: Raad Khan.jpg
+  - name: Shakuntala Choudhury
+    work_title: Data Scientist and Adjunct Professor, William Paterson University
+    nsvd_title: New Jersey State Coordinator
+    bio: Shankuntala (Lata) Choudhury, PhD has focused her career on analytics. She has been part of the evolution of Big Data data mining and use of these sophisticated insights across various industries. In recent years, she has had significant exposure to cognitive technologies in the context of financial, telecommunications, pharmaceuticals, and retail industries. She is an AT&T retiree and is currently Adjunct Professor of Machine Learning at William Paterson University, Wayne, NJ. Her expertise is in predictive modeling, analytics, time-series forecasting, demography/population studies, biostatistics, marketing research, financial forecasting, data mining and quality assurance.<br>Currently her Capstone projects on COVID-19 Data Science has been published in researchgate.com. Her expertise include thought leadership in Data Science and Statistical computing tools like SAS, R, Python and SQL, as well as Visualization tools like Power BI and Tableau. In community service, she joined NSVD to combat COVID-19 in USA and the rest of the world.
+    picture: Choudhury - lata choudhury.JPG
+  - name: Shaniah Pereida
+    work_title: Loma Linda-Scribe America
+    nsvd_title: California State Coordinator
+    bio: COVID-19 has caused distress not only on patients and healthcare providers but the entire nation. Being a part of NSVD will provide resources to local groups and hopefully my involvement will make a difference in my local community.
+    picture: Shaniah Pereida.JPG
+  - name: Nupur Verma
+    work_title: Postdoctoral Fellow, UCSF / University of Cambridge
+    nsvd_title: Washington State Coordinator
+    bio: Nupur Verma is a life science enthusiast with a Ph.D. from the University of Cambridge, U.K., and a postdoctoral fellow from the University of California, San Francisco. Her research expertise is de novo drug discovery and structural biology. She has worked on developing new medicines for the treatment of tuberculosis, Alzheimer's disease, and cancer. Currently, she is working as a subject matter expert with Crowdfight COVID-19 (an initiative by the scientific community to fight against COVID-19) on a pro-bono basis. With a desire to accelerate COVID-19 research and testing in Washington, she joined forces with the NSVD as a State Coordinator to effectively channelize the volunteering opportunities in her state.
+    picture: Verma, Nupur - Nupur Verma.jpg
 ---
