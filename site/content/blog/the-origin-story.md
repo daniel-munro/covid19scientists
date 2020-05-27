@@ -2,6 +2,7 @@
 type: post
 title: The Origin Story
 image: group_photo.jpg
+description: The database came into existence with a bang! We had 1,000 scientists sign up on the first day, and 4,000 had signed up by the end of the first week. At that point, we had to get practical.
 ---
 <span class="grey-3">Author:</span> Shannon Kozlovich, PhD (she/her/hers)\
 <span class="grey-3">Editor:</span> Shruti Muralidhar, PhD

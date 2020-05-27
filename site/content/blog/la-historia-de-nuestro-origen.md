@@ -2,6 +2,7 @@
 type: post
 title: La historia de nuestro origen
 image: group_photo.jpg
+description: ¡La base de datos comenzó con mucho éxito! Tuvimos 1,000 científicos inscritos el primer día, y 4,000 se inscribieron al final de la primera semana. En ese punto, tuvimos que ser prácticos.
 ---
 <span class="grey-3">Autora:</span> Shannon Kozlovich, PhD (ella/ellas)\
 <span class="grey-3">Editora:</span> Shruti Muralidhar, PhD\
