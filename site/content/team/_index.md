@@ -240,7 +240,8 @@ people:
   - name: Elena Vasileva
     work_title: Postdoctoral Researcher, Children's Hospital Los Angeles, USC
     nsvd_title: California State Coordinator
-    bio: "I am a Postdoctoral Researcher at Children’s Hospital of Los Angeles, USC. I am interested in studying the molecular mechanisms of cancer development and progression. I developed an inducible zebrafish model of human EWS-FLI-driven Ewing Sarcoma to better define the disease biology in a developmental context and to identify new targets for therapy. COVID-19 is changing the world around us and I would like to be part of the movement to fight COVID-19. <br>Twitter: [@evasilevasci](https://twitter.com/evasilevasci)"
+    bio: "I am a Postdoctoral Researcher at Children’s Hospital of Los Angeles, USC. I am interested in studying the molecular mechanisms of cancer initiation and progression. I developed an inducible zebrafish model of human EWS-FLI-driven Ewing Sarcoma to better define the disease biology and to identify new targets for therapy. COVID-19 is changing the world around us and I would like to be a part of the movement to fight it. <br>Twitter: [@evasilevasci](https://twitter.com/evasilevasci)"
+    picture: Vasileva.jpg
   - name: Claire Zhang
     work_title: Research Assistant, University of California San Diego
     nsvd_title: California State Coordinator
