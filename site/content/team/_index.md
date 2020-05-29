@@ -227,7 +227,8 @@ people:
   - name: Jeffrey M. Shaver
     work_title: Associate Professor, University of Arkansas Fort Smith
     nsvd_title: Arkansas State Coordinator
-    bio: I am currently an Associate Professor in Biology and Biology Education at the University of Arkansas Fort Smith (UAFS). In 2001 and 2008, I earned my Bachelors of Science in Biology and Biology Education from Purdue University (West Lafayette, IN), and my PhD in Biology from the University of Washington (Seattle, WA), respectively. In addition to my higher education teaching and research experience, I have also been a certified science teacher in Indiana and Washington, and I am currently a certified science teacher and principal in Texas. Prior to joining the faculty at UAFS in 2017, from 2014-2017, I was a Program Coordinator with the Charles A. Dana Center at the University of Texas at Austin. At UAFS, my research currently focuses on monitoring changes in microbiomes and mycobiomes with tall grass prairie restoration, and the effects of aphid infestation and chloroplast membrane saturation on the abundance and structure of chloroplast DNA.
+    bio: I am currently an Associate Professor in Biology at the University of Arkansas Fort Smith (UAFS). I earned my Bachelors of Science in Biology and Biology Education from Purdue University, and my PhD in Biology from the University of Washington. At UAFS, my collaborative research currently focuses on monitoring changes in microbiomes and mycobiomes with tall grass prairie restoration, and the effects of aphid infestation and chloroplast membrane saturation on the abundance and structure of chloroplast DNA. I am also hoping to support COVID-19 testing of sewage effluent in our state.
+    picture: jeff_shaver-682x1024.jpg
   - name: Payal D. Maharaj
     work_title: Former Microbiologist, CDC
     nsvd_title: California State Coordinator
