@@ -13,4 +13,6 @@ PNAS. ["Molecular biologists offer "wartime service" in the effort to test for C
 
 The Harvard Crimson. ["Harvard postdoc launches national COVID-19 research volunteer database."](https://www.thecrimson.com/article/2020/4/1/harvard-coronavirus-postdoc-volunteer-researcher-form/) (04.01.20)
 
-Noticias Telemundo. ["Científicos altruistas ofrecen apoyo en medio de la crisis del COVID-19"](https://www.telemundo.com/noticias/2020/05/21/cientificos-altruistas-ofrecen-apoyo-en-medio-de-la-crisis-del-covid-19-tmvo9448733) (05.21.20)
+Noticias Telemundo. ["Científicos altruistas ofrecen apoyo en medio de la crisis del COVID-19."](https://www.telemundo.com/noticias/2020/05/21/cientificos-altruistas-ofrecen-apoyo-en-medio-de-la-crisis-del-covid-19-tmvo9448733) (05.21.20)
+
+The Picower Institute. ["Closing social distance with social media by highlighting a volunteer science movement."](https://picower.mit.edu/news/closing-social-distance-social-media-highlighting-volunteer-science-movement) (05.29.20)
