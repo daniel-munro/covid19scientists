@@ -15,7 +15,7 @@ If you are interested in organizing a local group of scientist volunteers, pleas
 
 Location: State of New York\
 Organizers: **Nadia Khan, PhD**. Postdoctoral Fellow in Neuroscience at Icahn School of Medicine at Mount Sinai & **Alexandria Trujillo, PhD** (Pharmacology and Toxicology)\
-Contacts: nadiankhan1@gmail.com; alexandriajtrujillo@gmail.com; volunteer sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSfIo7HMJYOuJmDeCG0Is2FLvGHzeU3WN47kcQB7t-fXuYu7XA/viewform).
+Contacts: nadiankhan1@gmail.com; alexandriajtrujillo@gmail.com; volunteer sign-up form [HERE](https://docs.google.com/forms/d/e/1FAIpQLSc1VroQaC1aRGpi4wg57rxx1VeIIYVMGBE7pyThCVOCRr4uiQ/viewform).
 
 #### Biomedical Technician Rapid Response Team
 
