@@ -1,7 +1,7 @@
 ---
 title: Access and Opportunities
 aliases:
-    - /who-has-access
+  - /who-has-access
 ---
 # Access and Opportunities
 
@@ -27,7 +27,6 @@ Volunteer in your local area! Click on the links below for additional details ab
 
 * *Become a NSVD state coordinator:* We need your help finding and coordinating volunteer opportunities in your area for the scientists in our database. For more information on how to become a NSVD State Coordinator, please fill out [this form](https://tinyurl.com/NSVDStateCoor).
 * *Start a local NSVD chapter as a community organizer:* Are you interested in creating a local group of COVID-19 scientist volunteers? If so, please follow the [instructions on our website](https://covid19sci.org/groups/).
-* *Liaison for for-profit companies:* Several members of the NSVD database are unemployed or at risk of being unemployed in the near future. To help these individuals, we need a volunteer to coordinate communications with for-profit companies who are seeking to hire employees. If interested, please email us at COVID19SciVolunteers@gmail.com.
 
 </div><section class="grey-section" id="who-has-access"><div class="mw7 center ph3 pt2">
 
