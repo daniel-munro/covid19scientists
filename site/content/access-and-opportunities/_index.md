@@ -14,6 +14,7 @@ Volunteer in your local area! Click on the links below for additional details ab
 * [Curative Inc.  - Los Angeles, CA](https://tinyurl.com/SciVolCurativeInc)
 * [Curative Inc.  - Washington DC](https://tinyurl.com/CurativeDC)
 * [SpaceX  - Los Angeles, CA](https://tinyurl.com/LASpaceXvols)
+* [Great Lakes Bay Health Center - Michigan](https://docs.google.com/forms/d/e/1FAIpQLSchjPVIbCVGrjWOtvSsEpoSjm8KYJoGnooX1G4DHW1Ap8AlEQ/viewform)
 
 #### COVID-19 test curation and optimization
 
