@@ -14,13 +14,14 @@
     <img class="blog-logo mh1 ml2-ns" src="/img/logo_black.png">
   </h3>
 
-  <ul class="mhn1-ns pa3">
+  <!-- <ul class="mhn1-ns pa3"> -->
     <!-- { range (.Paginator 4).Pages.ByPublishDate.Reverse } -->
+  <div class="blog-cards">
     {{ range .Site.Data.posts }}
     <div class="blog-card">
       <!-- <a href="{{ .RelPermalink }}" class="no-underline mb2 w-100"> -->
       <div class="pv2 ph3">
-        <h2 class="b mb2">{{ .title }}</h2>
+        <h3 class="b mb2">{{ .title }}</h3>
         <!-- </div> -->
         <img src="/img/{{ .image }}">
         <!-- <div class="pv2 ph3"> -->
@@ -34,7 +35,8 @@
       <!-- </a> -->
     </div>
     {{ end }}
-  </ul>
+  </div>
+  <!-- </ul> -->
   <!-- { partial "pagination" . } -->
 </div>
 

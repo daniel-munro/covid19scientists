@@ -12,10 +12,18 @@
       <!-- <p>Read in {{ .ReadingTime }} minutes</p> -->
     <!-- </div> -->
       <!-- <p>{{ .Description }}</p> -->
-      {{ if .Params.image }}<img class="mb3" src="/img/{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      <h1>{{ .Title }}</h1>
-      {{ .Content }}
-      <!-- <p class="i">About the author: {{ .Params.about_the_author }}</p> -->
+      
+    {{ if .Params.image }}
+    <div class="tc">
+      <img class="mb3 blog-image" src="/img/{{ .Params.image }}" alt="{{ .Title }}" />
+    </div>
+    {{ end }}
+
+    <h1>{{ .Title }}</h1>
+
+    {{ .Content }}
+
+    <!-- <p class="i">About the author: {{ .Params.about_the_author }}</p> -->
   </div>
 
 {{ end }}

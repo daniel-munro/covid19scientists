@@ -5,3 +5,10 @@
   image: group_photo.jpg
   url_en: "the-origin-story"
   url_es: "la-historia-de-nuestro-origen"
+- type: post
+  title: "Meet a Volunteer: Ben Aldern"
+  date: 2020-06-08
+  description: COVID-19 has highlighted shortcomings in our data infrastructure and data quality - from the project level to the global level. I was on the lookout for projects that could benefit from getting started on the right foot along those lines when NSVD came along.
+  image: blog/Ben_Aldern.jpg
+  url_en: "meet-a-volunteer-ben-aldern"
+  url_es: "conoce-a-un-voluntario-ben-aldern"
