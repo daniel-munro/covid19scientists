@@ -15,8 +15,9 @@ Volunteer in your local area! Click on the links below for additional details ab
 * [Curative Inc.  - Washington DC](https://tinyurl.com/CurativeDC)
 * [SpaceX  - Los Angeles, CA](https://tinyurl.com/LASpaceXvols)
 
-#### COVID-19 test optimization
+#### COVID-19 test curation and optimization
 
+* [AdVeritasDX - Online](https://tinyurl.com/NSVD-AdVeritasDx)
 * [Eurofins  - Huntsville, AL](https://tinyurl.com/NSVDEurofins)
 
 #### Testing site information collection
