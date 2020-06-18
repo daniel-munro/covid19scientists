@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <div class="blog ph2"><a href="/" class="blog-nav">Home</a></div>
-<div class="blog mw7 center">
+<div class="blog center">
   <h1 class="tc mb0">Diary of a Database</h1>
   <!-- <h3 class="tc normal mt0">
     <img class="blog-logo" src="/img/logo_black.png">
@@ -21,12 +21,12 @@
     <div class="blog-card">
       <!-- <a href="{{ .RelPermalink }}" class="no-underline mb2 w-100"> -->
       <div class="pv2 ph3">
-        <h3 class="b mb2">{{ .title }}</h3>
+        <h3 class="b mb2">{{ .title | markdownify }}</h3>
         <!-- </div> -->
         <img src="/img/{{ .image }}">
         <!-- <div class="pv2 ph3"> -->
         <!-- <p class="grey-3 lh-title mb2">{{ .Date.Format "Mon, Jan 2, 2006" }}</p> -->
-        <p class="mb1">{{ .description }}</p>
+        <p class="mb1">{{ .description | markdownify }}</p>
         <p class="mb0">
           <a href="/blog/{{ .url_en }}" class="b mr2">English</a>
           <a href="/blog/{{ .url_es }}" class="b">Español</a>

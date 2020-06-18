@@ -1,14 +1,35 @@
 - type: post
+  title: "About this Blog"
+  date: 2020-06-18
+  description: We are so happy you have found your way here! This is the diary of a database, a database full of real life superhero scientists willing to volunteer they time and expertise to the COVID-19 public health crisis. Our articles cover who we are, what we do, and explore the things that may be holding us back. Happy Reading!
+  image: blog/about_this_blog1.jpg
+  url_en: "about-this-blog"
+  url_es: "bienvenido-a-nuestro-blog"
+- type: post
+  title: "Meet a Scientist:<br>Shannon Kozlovich"
+  date: 2020-06-18
+  description: She took it upon herself to be the Volunteer Communications Coordinator for the 9000+ strong volunteer database—that continues to grow each day! She took this volunteer position because "it leverages my pre-academic skills, my scientific knowledge, and training, as well as my ability to communicate with policy-makers."
+  image: blog/Shannon_Kozlovich_cropped.jpg
+  url_en: "meet-a-scientist-shannon-kozlovich"
+  url_es: "conozca-a-una-cientifica-shannon-kozlovich"
+- type: post
+  title: "Meet a Volunteer:<br>Crystal Lantz"
+  date: 2020-06-18
+  description: Capitalizing on one of her non-scientific skills as a sewer and quilter, she has also sewn over one hundred masks for essential workers, using her fabric stash which she has collected over the years!
+  image: blog/Crystal_Lantz_cropped.jpg
+  url_en: "meet-a-volunteer-crystal-lantz"
+  url_es: "conoce-a-una-cientifica-voluntaria-crystal-lantz"
+- type: post
+  title: "Meet a Volunteer:<br>Ben Aldern"
+  date: 2020-06-08
+  description: COVID-19 has highlighted shortcomings in our data infrastructure and data quality - from the project level to the global level. I was on the lookout for projects that could benefit from getting started on the right foot along those lines when NSVD came along.
+  image: blog/Ben_Aldern.jpg
+  url_en: "meet-a-volunteer-ben-aldern"
+  url_es: "conoce-a-un-voluntario-ben-aldern"
+- type: post
   title: The Origin Story
   date: 2020-05-09
   description: The database came into existence with a bang! We had 1,000 scientists sign up on the first day, and 4,000 had signed up by the end of the first week. At that point, we had to get practical.
   image: group_photo.jpg
   url_en: "the-origin-story"
   url_es: "la-historia-de-nuestro-origen"
-- type: post
-  title: "Meet a Volunteer: Ben Aldern"
-  date: 2020-06-08
-  description: COVID-19 has highlighted shortcomings in our data infrastructure and data quality - from the project level to the global level. I was on the lookout for projects that could benefit from getting started on the right foot along those lines when NSVD came along.
-  image: blog/Ben_Aldern.jpg
-  url_en: "meet-a-volunteer-ben-aldern"
-  url_es: "conoce-a-un-voluntario-ben-aldern"
