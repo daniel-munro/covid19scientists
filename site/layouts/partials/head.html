@@ -45,7 +45,7 @@
   {{ else }}
   <meta property="og:description"  content="We have curated a database of scientists from all 50 states, DC, Puerto Rico, and Guam who are eager to volunteer our time, expertise, equipment, and consumables to help YOU respond to the COVID-19 crisis.">
   {{ end }}
-  <meta property="og:url" content="https://covid19sci.org/">
+  <!-- <meta property="og:url" content="{{ .Permalink }}"> -->
   {{ if isset .Params "image"}}
   <meta property="og:image" content="https://covid19sci.org/img/{{ .Params.image }}">
   {{ else }}
