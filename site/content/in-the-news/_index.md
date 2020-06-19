@@ -16,3 +16,5 @@ The Harvard Crimson. ["Harvard postdoc launches national COVID-19 research volun
 Noticias Telemundo. ["Científicos altruistas ofrecen apoyo en medio de la crisis del COVID-19."](https://www.telemundo.com/noticias/2020/05/21/cientificos-altruistas-ofrecen-apoyo-en-medio-de-la-crisis-del-covid-19-tmvo9448733) (05.21.20)
 
 The Picower Institute. ["Closing social distance with social media by highlighting a volunteer science movement."](https://picower.mit.edu/news/closing-social-distance-social-media-highlighting-volunteer-science-movement) (05.29.20)
+
+WIS News 10. [Columbia restaurant owner helps others in the industry learn safe practices directly from experts](https://www.wistv.com/2020/06/18/columbia-restaurant-owner-helps-others-industry-learn-safe-practices-directly-experts/) (06.18.20)
