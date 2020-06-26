@@ -9,6 +9,10 @@ aliases:
 
 Volunteer in your local area! Click on the links below for additional details about each opportunity. If you are not already in our general database, [Sign Up](https://covid19sci.org/join/)!
 
+#### NSVD Consulting Service Openings
+
+* [Best Practices for Make-up Artists](https://docs.google.com/document/d/1YD7pRRkVKyvNDlbtjHyc607TDN1Li2yv9oNvfWl1uHs/edit?usp=sharing)
+
 #### COVID-19 sample collection and testing
 
 * [Curative Inc.  - Los Angeles, CA](https://tinyurl.com/SciVolCurativeInc)
