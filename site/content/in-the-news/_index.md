@@ -18,3 +18,5 @@ Noticias Telemundo. ["Científicos altruistas ofrecen apoyo en medio de la crisi
 The Picower Institute. ["Closing social distance with social media by highlighting a volunteer science movement."](https://picower.mit.edu/news/closing-social-distance-social-media-highlighting-volunteer-science-movement) (05.29.20)
 
 WIS News 10. [Columbia restaurant owner helps others in the industry learn safe practices directly from experts](https://www.wistv.com/2020/06/18/columbia-restaurant-owner-helps-others-industry-learn-safe-practices-directly-experts/) (06.18.20)
+
+[COVID-19: Population Testing vs. Thoughts and Prayers?](https://medium.com/@arhyne/covid-19-population-testing-vs-thoughts-and-prayers-454e64946dde) (06.30.20)
