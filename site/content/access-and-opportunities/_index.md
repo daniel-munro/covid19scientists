@@ -25,7 +25,8 @@ Volunteer in your local area! Click on the links below for additional details ab
 #### COVID-19 test curation and optimization
 
 * [AdVeritasDX - Online](https://tinyurl.com/NSVD-AdVeritasDx)
-* [Eurofins  - Huntsville, AL](https://tinyurl.com/NSVDEurofins)
+* [Eurofins  - Huntsville, AL](https://tinyurl.com/NSVDEurofins) 
+* [ClearGene - Bay Area (CA)](https://docs.google.com/forms/d/e/1FAIpQLScmijyaH8l_WBe3Yfn4hjyiwYuARDHEcvSV8vIA9vrDFXsqpQ/viewform)
 
 #### Testing site information collection
 
@@ -48,6 +49,8 @@ Volunteer in your local area! Click on the links below for additional details ab
 * Idaho Division of Public Health
 * Wyoming Public Health Laboratory
 * Island County Dept. of Emergency Management (WA)
+* Marin County Public Health Laboratory (CA)
+* Sacramento County Public Health Laboratory (CA)
 * Translational Genomics Research Institute (AZ)
 * Georgia State Senate
 * EndCoronavirus.org
@@ -82,8 +85,9 @@ Volunteer in your local area! Click on the links below for additional details ab
 
 ### Region-specific portions of the database have been shared after respondent opt-in with:
 
-* Curative Inc (Los Angeles, CA)
+* Curative Inc (Los Angeles, CA & Washington, DC)
 * SpaceX (Hawthorne, CA)
 * MOgene (St. Louis, MO)
+* ClearGene (Bay Area, CA)
 
 </section>
