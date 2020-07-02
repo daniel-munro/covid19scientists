@@ -447,4 +447,8 @@ people:
       NSVD as a State Coordinator to effectively channelize the volunteering
       opportunities in her state.
     picture: Verma, Nupur - Nupur Verma.jpg
+  - name: Gary Chizever, MD
+    work_title: Zerobase Foundation - Volunteer CMO
+    nsvd_title: Co-Coordinator, Consulting Product
+    bio: Physician and former engineer - experience in surgery, public health and disaster response.
 ---
