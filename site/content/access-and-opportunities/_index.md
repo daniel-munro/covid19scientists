@@ -71,6 +71,7 @@ Volunteer in your local area! Click on the links below for additional details ab
 * Houston COVID-19 Response (TX)
 * Biomed Tech Rapid Response (NY)
 * Biomedical Technician Rapid Response Team (Madison, WI)
+* San Diego COVID-19 Response Volunteers (CA)
 * LA Fighting COVID (CA)
 * Connecticut COVID19 Response Network (Storrs, CT)
 * Rochester Area COVID-19 Response (Rochester, NY)
