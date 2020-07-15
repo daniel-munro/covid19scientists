@@ -454,6 +454,7 @@ people:
       disaster response.
   - name: Dr Jeremy Rossman
     work_title: President, Research-Aid Networks
+    nsvd_title: Lead, Consulting Service
     bio: Dr Jeremy Rossman is a virologist, an Honorary Senior Lecturer in Virology
       at the University of Kent and President of the non-profit organisation,
       Research-Aid Networks. Jeremy has conducted collaborative
@@ -465,5 +466,5 @@ people:
       sustainable community development, worldwide. Jeremy is coordinating local
       community outreach efforts at endcoronavirus.org and providing expert
       guidance to the NSVD consulting service.
-    nsvd_title: Lead, Consulting Service
+    picture: jsr_400x400.jpg
 ---

@@ -253,6 +253,11 @@ ol, ul {
 .partner {
     flex: 0 0 300px;
     margin: 20px;
+    text-align: center;
+}
+
+.partner img {
+    max-height: 200px;
 }
 
 /*************/

@@ -1,4 +1,5 @@
-baseurl = "https://covid19sci.org/"
+baseurl = "/"
+# baseurl = "https://covid19sci.org/"
 languageCode = "en-us"
 languageLang = "en"
 title = "COVID-19 National Scientist Volunteer Database"
