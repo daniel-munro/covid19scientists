@@ -89,3 +89,9 @@ Contacts: christina_van@att.net and astras10@gmail.com
 Location: Canada\
 Organizers: **Guillaume Bourque, PhD**, Professor, McGill University & **Tara Moriarty, PhD**, Associate Professor, University of Toronto\
 Contacts: <https://covid19resources.ca/>
+
+#### Florida Scientist Task Force
+
+Location: State of Florida\
+Organizers: **Vincent Law**, Senior Research Associate in Neuro-Oncology at H. Lee Moffitt Cancer Center & Research Institute\
+Contacts and volunteer sign up: nsvd@floridataskforce.com
