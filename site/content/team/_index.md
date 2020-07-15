@@ -449,7 +449,7 @@ people:
     picture: Verma, Nupur - Nupur Verma.jpg
   - name: Gary Chizever, MD
     work_title: Zerobase Foundation - Volunteer CMO
-    nsvd_title: Co-Coordinator, Consulting Product
+    nsvd_title: Co-Coordinator, Consulting Service
     bio: Physician and former engineer - experience in surgery, public health and
       disaster response.
   - name: Dr Jeremy Rossman
