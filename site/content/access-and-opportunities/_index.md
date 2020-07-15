@@ -11,7 +11,7 @@ Volunteer in your local area! Click on the links below for additional details ab
 
 #### NSVD Consulting Service Openings
 
-* [Best Practices for Make-up Artists](https://docs.google.com/document/d/1YD7pRRkVKyvNDlbtjHyc607TDN1Li2yv9oNvfWl1uHs/edit?usp=sharing)
+* [Best Practices for Make-up Artists](https://docs.google.com/forms/d/e/1FAIpQLSeVH_zTPcUZYhcIJbgIyvYd4VnYGyYIbqkyZKrEd5mDgAFC2g/viewform?usp=sf_link)
 
 #### COVID-19 sample collection and testing
 
