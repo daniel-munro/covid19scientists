@@ -450,5 +450,20 @@ people:
   - name: Gary Chizever, MD
     work_title: Zerobase Foundation - Volunteer CMO
     nsvd_title: Co-Coordinator, Consulting Product
-    bio: Physician and former engineer - experience in surgery, public health and disaster response.
+    bio: Physician and former engineer - experience in surgery, public health and
+      disaster response.
+  - name: Dr Jeremy Rossman
+    work_title: President, Research-Aid Networks
+    bio: Dr Jeremy Rossman is a virologist, an Honorary Senior Lecturer in Virology
+      at the University of Kent and President of the non-profit organisation,
+      Research-Aid Networks. Jeremy has conducted collaborative
+      interdisciplinary research on the molecular biology of pandemic-causing
+      viruses, international epidemic responses, evidence-based humanitarian aid
+      and science education. His organization, Research-Aid Networks,
+      facilitates collaborative and evidence-based approaches for assessing
+      need, delivering aid, evaluating effectiveness and achieving long-term
+      sustainable community development, worldwide. Jeremy is coordinating local
+      community outreach efforts at endcoronavirus.org and providing expert
+      guidance to the NSVD consulting service.
+    nsvd_title: Lead, Consulting Service
 ---
