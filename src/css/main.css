@@ -274,7 +274,7 @@ ol, ul {
 
 .team-card {
     /* flex: 0 0 400px; */
-    width: 400px;
+    width: 380px;
     max-width: 100%;
     background-color: white;
     border-radius: 0.5rem;
