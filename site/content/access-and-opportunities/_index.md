@@ -9,6 +9,12 @@ aliases:
 
 Volunteer in your local area! Click on the links below for additional details about each opportunity. If you are not already in our general database, [Sign Up](https://covid19sci.org/join/)!
 
+#### Artificial Intelligence in COVID-19 Research
+
+* [Basic Virology](https://docs.google.com/forms/d/e/1FAIpQLSdzdJ9-hgCBqNYNoLduBwrDNehLU9F6IYd4pUbyXPAXgBndOw/viewform?usp=sf_link)
+* [Clinical Outcomes](https://docs.google.com/forms/d/e/1FAIpQLSe3AyrzrY-nEViE_ZtV5Nuo4hHOIxpSRqj-FS-nlCXqgd3NRQ/viewform?usp=sf_link)
+* [Drug Discovery and Repurposing](https://docs.google.com/forms/d/e/1FAIpQLScaNfIpNhViCyl1JihHVGbWZNpdzotScn0hVW-9uDkGyxazdw/viewform?usp=sf_link)
+
 #### NSVD Consulting Service Openings
 
 * [Best Practices for Make-up Artists](https://docs.google.com/forms/d/e/1FAIpQLSeVH_zTPcUZYhcIJbgIyvYd4VnYGyYIbqkyZKrEd5mDgAFC2g/viewform?usp=sf_link)
