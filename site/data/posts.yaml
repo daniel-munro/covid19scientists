@@ -6,6 +6,13 @@
   url_en: "about-this-blog"
   url_es: "bienvenido-a-nuestro-blog"
 - type: post
+  title: "Meet a Volunteer:<br>Payal Maharaj"
+  date: 2020-08-12
+  description: Payal strongly feels that everyone can contribute in some manner towards the resolution of this pandemic and she is happy to do her part. In part because she thinks it is a great idea to bring scientific minds together in order to combat this virus, NSVD seemed to her like the ultimate scientific collaboration for a great cause and signed up immediately.
+  image: blog/Payal_Maharaj.jpg
+  url_en: "meet-a-volunteer-payal-maharaj"
+  url_es: "conozca-a-una-voluntaria-payal-maharaj"
+- type: post
   title: "Meet a Scientist:<br>Shannon Kozlovich"
   date: 2020-06-18
   description: She took it upon herself to be the Volunteer Communications Coordinator for the 9000+ strong volunteer database—that continues to grow each day! She took this volunteer position because "it leverages my pre-academic skills, my scientific knowledge, and training, as well as my ability to communicate with policy-makers."
