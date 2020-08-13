@@ -9,12 +9,6 @@ aliases:
 
 Volunteer in your local area! Click on the links below for additional details about each opportunity. If you are not already in our general database, [Sign Up](https://covid19sci.org/join/)!
 
-#### Artificial Intelligence in COVID-19 Research (C19.ai partnership)
-
-* [Basic Virology](https://docs.google.com/forms/d/e/1FAIpQLSdzdJ9-hgCBqNYNoLduBwrDNehLU9F6IYd4pUbyXPAXgBndOw/viewform?usp=sf_link)
-* [Clinical Outcomes](https://docs.google.com/forms/d/e/1FAIpQLSe3AyrzrY-nEViE_ZtV5Nuo4hHOIxpSRqj-FS-nlCXqgd3NRQ/viewform?usp=sf_link)
-* [Drug Discovery and Repurposing](https://docs.google.com/forms/d/e/1FAIpQLScaNfIpNhViCyl1JihHVGbWZNpdzotScn0hVW-9uDkGyxazdw/viewform?usp=sf_link)
-
 #### NSVD Consulting Service Openings
 
 * [Best Practices for Make-up Artists](https://docs.google.com/forms/d/e/1FAIpQLSeVH_zTPcUZYhcIJbgIyvYd4VnYGyYIbqkyZKrEd5mDgAFC2g/viewform?usp=sf_link)
@@ -38,10 +32,23 @@ Volunteer in your local area! Click on the links below for additional details ab
 
 * [Get-Tested-COVID-19  - Online](https://docs.google.com/forms/d/e/1FAIpQLSfBAB5z7FeWXFEWCFLNdVMVVGQai6QvQVMV42LUPJbHdbzSXg/viewform)
 
+#### Artificial Intelligence in COVID-19 Research (C19.ai partnership)
+
+* [Basic Virology](https://docs.google.com/forms/d/e/1FAIpQLSdzdJ9-hgCBqNYNoLduBwrDNehLU9F6IYd4pUbyXPAXgBndOw/viewform?usp=sf_link)
+* [Clinical Outcomes](https://docs.google.com/forms/d/e/1FAIpQLSe3AyrzrY-nEViE_ZtV5Nuo4hHOIxpSRqj-FS-nlCXqgd3NRQ/viewform?usp=sf_link)
+* [Drug Discovery and Repurposing](https://docs.google.com/forms/d/e/1FAIpQLScaNfIpNhViCyl1JihHVGbWZNpdzotScn0hVW-9uDkGyxazdw/viewform?usp=sf_link)
+
+#### Grant Writing
+
+* [New York Biomedical Technicians Rapid Response Team](https://drive.google.com/file/d/1Bb23bmWA6ALxlU3cnmL6y799SyeV4Jns/view?usp=sharing)
+
 #### Work with us to expand opportunities for our volunteers!
 
 * *Become a NSVD state coordinator:* We need your help finding and coordinating volunteer opportunities in your area for the scientists in our database. For more information on how to become a NSVD State Coordinator, please fill out [this form](https://tinyurl.com/NSVDStateCoor).
 * *Start a local NSVD chapter as a community organizer:* Are you interested in creating a local group of COVID-19 scientist volunteers? If so, please follow the [instructions on our website](https://covid19sci.org/groups/).
+* Join our *policy research team*! We are compiling information on [CLIA](https://www.cdc.gov/clia/index.html) regulations in order to allow our highly skilled volunteers to process diagnostic tests around the nation. Please email [romanochristine@nsvd.org](mailto:romanochristine@nsvd.org) if interested.
+* Expand your portfolio and CV to include *Science Communications*! Join the Communications team to generate [Twitter](https://twitter.com/COVID19_NSVD) and [Facebook](https://www.facebook.com/NationalScientistVolunteerDatabase) content, or join our writing team to be an author and/or editor for our [blog](https://covid19sci.org/blog/). Interested? Please email us at [COVID19SciVolunteers@gmail.com](mailto:COVID19SciVolunteers@gmail.com)
+* *Liaison for for-profit companies:* Several members of the NSVD database are unemployed or at risk of being unemployed in the near future. To help these individuals, we need a volunteer to coordinate communications with for-profit companies who are seeking to hire employees. If interested, please email us at [COVID19SciVolunteers@gmail.com](mailto:COVID19SciVolunteers@gmail.com)
 
 </div><section class="grey-section" id="who-has-access"><div class="mw7 center ph3 pt2">
 
