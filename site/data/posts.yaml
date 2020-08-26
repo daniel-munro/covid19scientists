@@ -6,6 +6,13 @@
   url_en: "about-this-blog"
   url_es: "bienvenido-a-nuestro-blog"
 - type: post
+  title: "Pandemic Protesting"
+  date: 2020-08-26
+  description: This is what democracy looks like. The recent civil rights protests that held the news cycle for a couple of weeks never stopped; given recent events, these protests are obviously still necessary. In light of the COVID-19 viral pandemic, we have gathered a list of best practices for Pandemic Protesting.
+  image: blog/pandemic_protesting.jpg
+  url_en: "pandemic-protesting"
+  url_es: "protesta-durante-la-pandemia"
+- type: post
   title: "Meet a Volunteer:<br>Payal Maharaj"
   date: 2020-08-12
   description: Payal strongly feels that everyone can contribute in some manner towards the resolution of this pandemic and she is happy to do her part. In part because she thinks it is a great idea to bring scientific minds together in order to combat this virus, NSVD seemed to her like the ultimate scientific collaboration for a great cause and signed up immediately.
