@@ -31,3 +31,4 @@ title: Resources
 
 * [Mental health](https://mhanational.org/covid19)
 * [Red Cross Mental Health resource](https://www.redcross.org/take-a-class/classes/mental-health-first-aid-for-covid-19-online/a6R3o0000014ZIg.html)
+* [COVID-19 Resources for the Elderly and Families](https://nanha.org/2020/09/17/covid-19-resources-for-the-elderly-and-families/)
