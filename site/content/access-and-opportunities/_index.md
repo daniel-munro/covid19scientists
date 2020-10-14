@@ -21,6 +21,7 @@ Volunteer in your local area! Click on the links below for additional details ab
 * [Great Lakes Bay Health Center - Michigan](https://docs.google.com/forms/d/e/1FAIpQLSchjPVIbCVGrjWOtvSsEpoSjm8KYJoGnooX1G4DHW1Ap8AlEQ/viewform)
 * [Marin County Public Health Laboratory - California](https://docs.google.com/forms/d/1K3eFHcnfGBk_Tl230CICjrZW6SBOtLHfURI5ufDp7DU/viewform?edit_requested=true)
 * [Sacramento Public Health Laboratory - California](https://docs.google.com/forms/d/e/1FAIpQLScD8FXsI0ymdkBwCZLyLzmw_g5UtaGW0CzhecCZBen2DWfHPQ/viewform?vc=0&c=0&w=1)
+* [Mirimus Inc. - New York City](http://tinyurl.com/NSVDMirimus)
 
 #### COVID-19 test curation and optimization
 
