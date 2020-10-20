@@ -22,3 +22,5 @@ WIS News 10. [Columbia restaurant owner helps others in the industry learn safe 
 [COVID-19: Population Testing vs. Thoughts and Prayers?](https://medium.com/@arhyne/covid-19-population-testing-vs-thoughts-and-prayers-454e64946dde) (06.30.20)
 
 University of Dallas. [A Faculty Summer: Dr. Toby’s Fight Against COVID-19](https://udallas.edu/news/2020/a-faculty-summer-dr-tobys-fight-against-covid-19.php) (08.24.20)
+
+COVID-19 STAT. [Thousands of Volunteer Scientists Mobilize to Provide Potentially Valuable Resource for Clinical Laboratories](https://covid19briefings.com/2020/10/07/thousands-of-volunteer-scientists-mobilize-to-provide-potentially-valuable-resource-for-clinical-laboratories/) (10.20.20)
