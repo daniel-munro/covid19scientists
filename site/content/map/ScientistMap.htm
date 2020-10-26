@@ -1,0 +1,309 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=10" />
+  <title>ScientistMap</title>
+  <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.6/proj4.js"></script>
+  <script type="text/javascript" src="https://code.highcharts.com/maps/highmaps.js"></script>
+  <script type="text/javascript" src="https://code.highcharts.com/maps/modules/data.js"></script>
+  <script type="text/javascript" src="https://code.highcharts.com/modules/marker-clusters.js"></script>
+  <script type="text/javascript" src="https://code.highcharts.com/modules/coloraxis.js"></script>
+  <script type="text/javascript" src="https://code.highcharts.com/modules/boost.js"></script>
+  <script type="text/javascript" src="https://code.highcharts.com/modules/boost-canvas.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" type="text/css" />
+  <script type="text/javascript" src="https://code.highcharts.com/mapdata/countries/us/us-all.js"></script>
+  <script type="text/javascript">
+
+var H = Highcharts,
+    map = H.maps['countries/us/us-all'],
+    chart;
+
+var chartIdx = 0;
+var seriesIdx = 2;
+	
+var dataForMap = {
+	'url': 'https://covid19.bioviaonline.com/webapps/covid19/ScientistData.json',
+	'data': []
+	};
+
+function InitializeSciMap(){
+	 
+	// Add series with state capital bubbles
+	Highcharts.getJSON(dataForMap.url, function (jsonObj) {
+		var data = jsonObj;
+		dataForMap.data = jsonObj;
+
+		chart = Highcharts.mapChart('map', {
+			title: {
+				text: null
+			},
+			
+			subtitle: {
+				text: null
+			},
+			legend: {
+				enabled: false
+			},
+			mapNavigation: {
+				enabled: true
+				//enabled: false
+			},
+			yAxis: {
+				title: {
+					text: null
+				}
+			},
+			chart: {
+				map: 'countries/us/us-all'
+			},
+			plotOptions: {
+				series: {
+					turboThreshold: 0,
+					stickyTracking: false
+				},
+				mappoint: {
+					cluster: {
+						enabled: true,
+						allowOverlap: false,
+						animation: {
+							duration: 450
+						},
+						layoutAlgorithm: {
+							type: 'grid',
+							gridSize: 50
+						},
+						zones: [{
+							from: 1,
+							to: 10,
+							marker: {
+								radius: 13
+							}
+						}, {
+							from: 11,
+							to: 50,
+							marker: {
+								radius: 15
+							}
+						}, {
+							from: 51,
+							to: 100,
+							marker: {
+								radius: 17
+							}
+						}, {
+							from: 101,
+							to: 500,
+							marker: {
+								radius: 19
+							}
+						}, {
+							from: 501,
+							to: 5000,
+							marker: {
+								radius: 21
+							}
+						}]
+					}
+				}
+			},
+			credits: {
+				enabled: false,
+				href: 'https://covid19sci.org/',
+				text: 'COVID-19 National Scientist Volunteer Database'
+			},
+			colorAxis: {
+				min: 1,
+				max: 1500
+			},
+			tooltip: {
+				useHTML: true,
+				formatter: function() {
+					var str = "";
+					if (this.point.clusteredData) {
+						
+						var t = this.point.clusterPointsAmount;
+						var plural = "";
+						var seenZips = [];
+						var z = this.point.clusteredData[0].options.SCI_name;
+						seenZips.push(this.point.clusteredData[0].options.SCI_name);
+						
+						for(var i = 1; i < t; i++){
+							var thisZip = this.point.clusteredData[i].options.SCI_name;
+							if(seenZips.indexOf(thisZip) === -1) {
+								z += '<br />'+thisZip;
+								seenZips.push(thisZip);
+								plural = "s";
+							}
+							if(seenZips.length===17){
+								z += '<br />...';
+								break;
+							}
+						}
+						
+						str += '<table>';
+						str += '<tr><td style="text-align:right;vertical-align:top;"><b>Number of Scientists:</b></td><td style="text-algin:center;">'+t+'</td></tr>';
+						str += '<tr><td style="text-align:right;vertical-align:top;"><b>Zip Code'+plural+':</b></td><td style="text-algin:center;">'+z+'</td></tr>';
+						str += '</table>';
+					}else{
+						
+						if (this.point.SCI_name !== undefined) {
+							str += '<b>Zip Code:</b> ' + pad(this.point.SCI_name,5) + '<br>';
+						}
+					}
+					return str;
+				},
+				
+				headerFormat: '',
+				hideDelay: 75
+			},
+					
+			series: [{
+				name: 'Basemap',
+				mapData: H.maps['countries/us/us-all'],
+				nullColor: 'rgba(200, 200, 200, 0.2)',
+				showInLegend: false
+			},{
+				name: 'Separators',
+				type: 'mapline',
+				data: H.geojson(map, 'mapline'),
+				color: '#000000',
+				borderColor: '#000000',
+				nullColor: 'rgba(100, 100, 100, 0.2)',
+				enableMouseTracking: false,
+				showInLegend: false
+			},{
+				/*
+				name: "Location_Lat",
+				latitudename: "Location_Lat",
+				longitudename: "Location_Long",
+				zname: "Number of Scientists",
+				type: 'mapbubble',
+				boostThreshold: 500,
+				boostBlending: 'alpha',
+				data: data
+				*/
+				type: 'mappoint',
+				boostThreshold: 500,
+				boostBlending: 'alpha',
+				enableMouseTracking: true,
+				colorKey: 'clusterPointsAmount',
+				name: "Volunteer Scientists",
+				data: data
+				
+			}]
+		});
+	});
+	
+	return;
+}
+
+/*
+function getJsonStringFromUrl(dataObj){
+	var request = new XMLHttpRequest();
+	request.onreadystatechange = function() {
+		if (request.readyState === XMLHttpRequest.DONE) {
+			if (request.status === 200) {
+				//Success
+				var jsonText = request.responseText;
+				jsonStringToData(jsonText,dataObj);	
+			} else {
+				//Error
+				jsonStringToData([{}],dataObj);
+			}
+		}
+	};
+	request.open("GET", dataObj.url, true);
+	request.send()
+	
+	return;
+}
+			
+function jsonStringToData(jsonString, dataObj){
+	dataObj.data = JSON.parse(jsonString);
+	if(dataObj.origData.length === 0)
+		dataObj.origData = dataObj.data;
+		
+	return;
+}
+*/
+
+
+
+
+function pad(n, width, z) {
+  z = z || '0';
+  n = n + '';
+  return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
+}
+
+function GenerateMap(){
+	var zipCode = "";
+	
+	var tempZip = document.getElementById('txtZipcode').value;
+	if(checkZipCode(tempZip)){
+		zipCode = tempZip;
+		pfGenerateMap(zipCode,cbGenerateMap);
+	}
+	
+	
+	
+	return;
+}
+
+function cbGenerateMap(result){
+	
+	
+	Highcharts.charts[chartIdx].zoomOut();
+	
+	var newDataString = result["ResultMapData"];
+	if(isBlankString(newDataString) ){
+		Highcharts.charts[chartIdx].series[seriesIdx].setData();
+	}else{
+		var newData = JSON.parse(newDataString);
+		
+		Highcharts.charts[chartIdx].series[seriesIdx].setData(newData);
+		
+		if(result["DoZoom"] == "true"){
+			var zoomLevel = 0.1;
+			var point = Highcharts.charts[chartIdx].fromLatLonToPoint( {lat:result["LatForZoom"],lon:result["LonForZoom"]} );
+			Highcharts.charts[chartIdx].mapZoom(zoomLevel,point["x"],point["y"]);
+			Highcharts.charts[chartIdx].showResetZoom();
+		}
+	}
+}
+
+function checkZipCode(zip){
+	var blankStringsAllowed = true;
+	
+	if (typeof zip === "undefined") {
+		return false;
+	}else{
+		if(isBlankString(zip)){
+			return blankStringsAllowed;
+		}else{
+			var validZip = /(^\d{5}$)/.test(zip);
+			if(!validZip){
+				alert('Zip Code Error');
+				document.getElementById('txtZipcode').focus();
+			}
+			return validZip;
+		}
+	}
+}	
+function isBlankString(string) {
+	return (!string || /^\s*$/.test(string));
+}
+
+  </script>
+</head>
+<body onload="InitializeSciMap();">
+<div class="container-fluid" id="container"><div class="row"><div class="col-sm-12" style="padding:0px;height:400px" id="map"></div>
+</div>
+</div>
+
+</body>
+</html>
