@@ -24,3 +24,5 @@ WIS News 10. [Columbia restaurant owner helps others in the industry learn safe 
 University of Dallas. [A Faculty Summer: Dr. Toby’s Fight Against COVID-19](https://udallas.edu/news/2020/a-faculty-summer-dr-tobys-fight-against-covid-19.php) (08.24.20)
 
 COVID-19 STAT. [Thousands of Volunteer Scientists Mobilize to Provide Potentially Valuable Resource for Clinical Laboratories](https://covid19briefings.com/2020/10/07/thousands-of-volunteer-scientists-mobilize-to-provide-potentially-valuable-resource-for-clinical-laboratories/) (10.07.20)
+
+William Patterson University. [WP Business Analytics Professor Volunteers as Data Scientist in the Fight Against COVID-19](https://www.wpunj.edu/articles/news/2020-12-23/choudhury-data-scientist-covid-19-NSVD-EndCoronavirus-business-analytics-nj/) (12.23.20)
