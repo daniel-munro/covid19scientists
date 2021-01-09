@@ -6,6 +6,13 @@
   url_en: "about-this-blog"
   url_es: "bienvenido-a-nuestro-blog"
 - type: post
+  title: "Interview with The Makeup Standard"
+  date: 2021-01-09
+  description: NSVD partnered with beauty professionals to develop The Makeup Standard, an initiative to formulate sanitation guidelines for the beauty industry during COVID-19. Check out the interview with The Makeup Standard lead scientist from NSVD, Vincent Law.
+  image: blog/makeup_standard.jpg
+  url_en: "makeup-standard-interview"
+  url_es: "entrevista-con-vincent-law"
+- type: post
   title: "Pandemic Protesting"
   date: 2020-08-26
   description: This is what democracy looks like. The recent civil rights protests that held the news cycle for a couple of weeks never stopped; given recent events, these protests are obviously still necessary. In light of the COVID-19 viral pandemic, we have gathered a list of best practices for Pandemic Protesting.
