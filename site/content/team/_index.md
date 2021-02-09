@@ -298,16 +298,16 @@ people:
       community organizer for various social/cultural issues and have now turned
       my focus on COVID-19 relief efforts.
     picture: Michael Ruiz.jpg
-  - name: Matthew Tegtmeyer	
-    work_title: Graduate student, Broad Institute	
-    nsvd_title: New England Coordinator	
-    bio: I am a molecular genetics graduate student working between the Broad	
-      Institute and King's College London. Additionally, I serve a consulting	
-      role within the private biotech industry.<br>I have a background in	
-      political science and health administration and recognize the increasing	
-      importance of mobilizing basic science researchers to assist in large	
-      scale efforts to support public health measures.	
-    picture: Matt Tegtmeyer - Matthew Tegtmeyer.JPG	
+  - name: Matthew Tegtmeyer
+    work_title: Graduate student, Broad Institute
+    nsvd_title: New England Coordinator
+    bio: I am a molecular genetics graduate student working between the Broad
+      Institute and King's College London. Additionally, I serve a consulting
+      role within the private biotech industry.<br>I have a background in
+      political science and health administration and recognize the increasing
+      importance of mobilizing basic science researchers to assist in large
+      scale efforts to support public health measures.
+    picture: Matt Tegtmeyer - Matthew Tegtmeyer.JPG
   - name: Dennis Deluca
     work_title: Associate Professor, Ohio Northern University
     nsvd_title: Ohio State Coordinator
@@ -328,15 +328,6 @@ people:
       bio](https://udallas.edu/constantin/academics/programs/biology/faculty_bios/toby-inimary.php)<br>
       "Dovresti sempre mostrare amore a tutti"
     picture: Inimary_Toby_UDallas - Inimary Toby.jpg
-  - name: Raad Khan
-    work_title: Graduate Student, The University of Oxford/Howard University
-    nsvd_title: Virginia/DC State Coordinator
-    bio: Hi everyone! My name is Raad and I am a cancer researcher and drug
-      discovery and development scientist at Howard University. My background is
-      in biology, nanotechnology, and pharmaceutical science. I was motivated to
-      become a state coordinator because I wanted to ensure that scientists
-      could generate a strong response to the current pandemic.
-    picture: Raad Khan.jpg
   - name: Shakuntala Choudhury
     work_title: Data Scientist and Adjunct Professor, William Paterson University
     nsvd_title: PPE Data Support
