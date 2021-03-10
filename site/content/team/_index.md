@@ -31,23 +31,6 @@ people:
       growth startups and mathematical programming, and he very much enjoys
       Rhône wines and sailing.
     picture: kevin schallert.jpg
-  - name: Crystal Lantz, PhD
-    work_title: Visiting Faculty Specialist, University of Maryland
-    nsvd_title: "Government Outreach Director "
-    bio: "Crystal L. Lantz, PhD is the Government Outreach Coordinator and serves on
-      the Access Approval Task Force. She is a Visiting Faculty Specialist at
-      the University of Maryland, College Park in the Department of Biology. She
-      is a neurobiologist studying how experience influences the development and
-      function of neural circuits in the visual system. Her work examines the
-      harmful effects of early life toxin exposure on anatomic and physiologic
-      markers of brain plasticity, as well as non-invasive methods to restore
-      brain plasticity and normal vision. She recently served as an Early Career
-      Policy Ambassador for the Society for Neuroscience and has dedicated much
-      of her time to science outreach in her community; increasing scientific
-      literacy and encouraging a future generation of scientists. <br>Website:
-      [www.cllantz.com](https://www.cllantz.com) <br>Twitter:
-      [@cllantz](https://twitter.com/cllantz)"
-    picture: Lantz-headshot.jpg
   - name: Shannon Kozlovich, PhD
     work_title: Program Manager, Equality California
     nsvd_title: Communications Director
