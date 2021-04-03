@@ -30,5 +30,7 @@ title: Resources
 # Additional Resources
 
 * [Mental health](https://mhanational.org/covid19)
+    * [SAMHSA's Treatment Locator](https://findtreatment.samhsa.gov/)
+    * [Treatment options](https://www.drugabuse.gov/publications/principles-drug-addiction-treatment-research-based-guide-third-edition/frequently-asked-questions/where-can-family-members-go-information-treatment)
 * [Red Cross Mental Health resource](https://www.redcross.org/take-a-class/classes/mental-health-first-aid-for-covid-19-online/a6R3o0000014ZIg.html)
 * [For the elderly and families](https://nanha.org/2020/09/17/covid-19-resources-for-the-elderly-and-families/)
